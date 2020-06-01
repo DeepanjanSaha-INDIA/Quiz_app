@@ -1,5 +1,8 @@
 <div *ngIf="questions.length == 0; then thenBlock else elseBlock"></div>
-<ng-template #thenBlock>Content to render when condition is true.</ng-template>
+<ng-template #thenBlock>
+    Error 404: Did not fetch the questions
+    <button routerLink="/">Link to main page</button>
+</ng-template>
 <ng-template #elseBlock>
     <h1> Question No. {{qno+1}}: {{questions[qno].question}} </h1>
     <input type="radio" name="option" value="a" [(ngModel)]="option" [disabled]="hasSubmitted">
@@ -28,14 +31,15 @@
     </ng-container>
 
     <button (click)="showAnswer()">Show answer</button>
-</ng-template>
 
-<div *ngIf="qno == 4; then resultBlock else nextQuestionBlock"></div>
-<ng-template #nextQuestionBlock>
-    <button (click)="next()">Go to next question</button>
-</ng-template>
-<ng-template #resultBlock>
-    <button (click)="submit()">See Results</button>
+    <div *ngIf="qno == 4; then resultBlock else nextQuestionBlock"></div>
+    <ng-template #nextQuestionBlock>
+        <button (click)="next()" [disabled]="!hasSubmitted">Go to next question</button>
+    </ng-template>
+    <ng-template #resultBlock>
+        <button (click)="submit()" [disabled]="!hasSubmitted">See Results</button>
+    </ng-template>
+
 </ng-template>
 
 <ng-container *ngIf="isResultOut">
