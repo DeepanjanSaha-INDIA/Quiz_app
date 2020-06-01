@@ -1,0 +1,47 @@
+{
+    "bsonType": "object",
+    "description": "This is entire question object",
+    "required": ["question_id", "question", "option", "answer", "description"],
+    "properties": {
+        "question_id": {
+            "bsonType": "number",
+            "description": "It contains unique question number"
+            },
+        "question": {
+            "bsonType": "string",
+            "description": "It contains question"
+            },
+        "option": {
+            "bsonType": "object",
+            "required": ["a", "b", "c", "d"],
+            "description": "It contains 4 options",
+            "properties": {
+                "a": {
+                    "bsonType": "string",
+                    "description": "It contains option A"
+                    },
+                "b": {
+                    "bsonType": "string",
+                    "description": "It contains option B"
+                    },
+                "c": {
+                    "bsonType": "string",
+                    "description": "It contains option C"
+                    },
+                "d": {
+                    "bsonType": "string",
+                    "description": "It contains option D"
+                    }
+                }
+            },
+        "answer": {
+            "bsonType": "string",
+            "description": "It contains answer"
+            },
+        "description": {
+            "bsonType": "string",
+            "description": "It contains description"
+            }
+        }
+    }
+}

@@ -1,0 +1,3170 @@
+[
+    {
+        "question": "Who won Austrian Grand Prix?",
+        "option": {
+            "a": "Charles Leclerc",
+            "b": "Lewis Hamilton",
+            "c": "Max Verstappen",
+            "d": "Valtteri Bottas"
+        },
+        "answer": "Max Verstappen",
+        "description": "Red Bull's Max Verstappen won the Austrian Grand Prix on Sunday, beating Ferrari's Charles Leclerc, who registered his best finish in a Formula 1 Grand Prix."
+    },
+    {
+        "question": "India has ranked________ in terms of money parked by its citizens and enterprises with Swiss banks.",
+        "option": {
+            "a": "24",
+            "b": "44",
+            "c": "52",
+            "d": "74"
+        },
+        "answer": "74",
+        "description": "India has moved down one place to 74th rank in terms of money parked by its citizens and enterprises with Swiss banks, while the U.K. has retained its top position, as per data released by the central banking authority of the Alpine nation."
+    },
+    {
+        "question": "GST Day is observed on ___________.",
+        "option": {
+            "a": "June 10",
+            "b": "June 15",
+            "c": "July 01",
+            "d": "July 09"
+        },
+        "answer": "July 01",
+        "description": "Kicking off celebration to mark two years of the GST implementation, the finance ministry will on July 1 come up with further reforms in the indirect tax system with introduction of new return system."
+    },
+    {
+        "question": "International Day of Parliamentarism is observed on ___________.",
+        "option": {
+            "a": "June 14",
+            "b": "June 30",
+            "c": "July 03",
+            "d": "July 15"
+        },
+        "answer": "June 30",
+        "description": "June 30 is the day designated to celebrate the International Day of Parliamentarism. It is also the date, in 1889, on which the Inter-Parliamentary Union - the global organization of parliaments - was established."
+    },
+    {
+        "question": "Who has become the first civil servant and IPS officer to achieve the 7 Summits challenge?",
+        "option": {
+            "a": "Akshara Premkumar",
+            "b": "Anuradha Srinivatsan",
+            "c": "Srimathi Golpari",
+            "d": "Aparna Kumar"
+        },
+        "answer": "Aparna Kumar",
+        "description": "Aparna Kumar created history by becoming the first civil servant and IPS officer to achieve the incredible and rare feat of completing '7 Summits' challenge'."
+    },
+    {
+        "question": "Who has conferred with Lifetime Achievement Award 2019 at UK-India Awards in London?",
+        "option": {
+            "a": "Sir Mark Tully",
+            "b": "Benny Dayal",
+            "c": "Sir Mufta Yashil",
+            "d": "Sari Hari Vatsan"
+        },
+        "answer": "Sir Mark Tully",
+        "description": "Sir Mark Tully was conferred with Lifetime Achievement Award 2019 at UK-India Awards in London. Veteran British journalist Sir Mark Tully was conferred with Lifetime Achievement Award 2019 at UK-India Awards in London."
+    },
+    {
+        "question": "Which country has host International Security Alliance (ISAs) first joint security exercise named ISALEX19?",
+        "option": {
+            "a": "India",
+            "b": "UAE",
+            "c": "Russia",
+            "d": "CHian"
+        },
+        "answer": "UAE",
+        "description": "Abu Dhabi, capital of United Area Emirates (UAE) is hosting International Security Alliance (ISAs) first joint security exercise named ISALEX19."
+    },
+    {
+        "question": "National Doctors' Day is celebrated on _____________.",
+        "option": {
+            "a": "June 03",
+            "b": "June 17",
+            "c": "June 28",
+            "d": "July 01"
+        },
+        "answer": "July 01",
+        "description": "In India the National Doctors' Day is celebrated on July 1 all across India to honour the legendary physician and the second Chief Minister of West Bengal, Dr. Bidhan Chandra Roy."
+    },
+    {
+        "question": "Who has been reappointed as Deputy Governor of RBI for 1 year?",
+        "option": {
+            "a": "Jothish K Ray",
+            "b": "NS Vishwanathan",
+            "c": "Sivanantha Kumar",
+            "d": "Murali Nathan"
+        },
+        "answer": "NS Vishwanathan",
+        "description": "The Appointments Committee of the Cabinet has approved the reappointment of NS Vishwanathan as Deputy Governor of RBI for a period of one year from July 4, 2019."
+    },
+    {
+        "question": "Which team has claimed Euro Under-21 title?",
+        "option": {
+            "a": "Spain",
+            "b": "Germany",
+            "c": "Portugese",
+            "d": "Barcelona"
+        },
+        "answer": "Spain",
+        "description": "Spain claimed the Under-21 European Championship title after beating Germany 2-1 in Italy on Sunday. The Spaniards have now equalled hosts Italy's record of five Under-21 European Championship titles."
+    },
+    {
+        "question": "Which State government has started DASTAK campaign against communicative diseases Acute Encephalitis Syndrome?",
+        "option": {
+            "a": "Maharastra",
+            "b": "Madhya Pradesh",
+            "c": "Uttar Pradesh",
+            "d": "Jharkhand"
+        },
+        "answer": "Uttar Pradesh",
+        "description": "Uttar Pradesh State government has started DASTAK campaign against communicative diseases Acute Encephalitis Syndrome (AES) and Japanese Encephalitis (JE) disease on 1 July in the State. DASTAK campaign will run from 1st to 31st July."
+    },
+    {
+        "question": "Vaibhav Yadav won WBC Asia title, is associated with____________.",
+        "option": {
+            "a": "Boxing",
+            "b": "Swimming",
+            "c": "Karate",
+            "d": "Ludo"
+        },
+        "answer": "Boxing",
+        "description": "Indian pro boxer Vaibhav Yadav became World Boxing Council (WBC) Asia silver Welterweight Champion after winning the title bout held in Pattaya, Thailand."
+    },
+    {
+        "question": "Garuda-VI is Joint Air Exercise between__________.",
+        "option": {
+            "a": "India and Japan",
+            "b": "India and French",
+            "c": "Srilanka and French",
+            "d": "Srilanka and China"
+        },
+        "answer": "India and French",
+        "description": "Indian Air Force (IAF) and Armee de l'Air (French Air Force) are participating in Garuda VI, a bilateral air exercise at Mont de Marsan in France."
+    },
+    {
+        "question": "Which state has declared 'Disturbed Area' under AFSPA for 6 more months?",
+        "option": {
+            "a": "Sikkim",
+            "b": "Jammu and Kashmir",
+            "c": "Nagaland",
+            "d": "Kerala"
+        },
+        "answer": "Nagaland",
+        "description": "Centre has declared entire State of Nagaland a 'disturbed area' for a period of 6 more months under Armed Forces (Special Powers) Act (AFSPA) with effect from 30 June 2019. The central government opinion was notified by Union Ministry of Home Affairs (MHA)."
+    },
+    {
+        "question": "Cirrochroa thais has been officially declared as state butterfly of __________.",
+        "option": {
+            "a": "Kerala",
+            "b": "Manipur",
+            "c": "Tamil Nadu",
+            "d": "Telangana"
+        },
+        "answer": "Tamil Nadu",
+        "description": "Butterfly species Tamil yeoman (Cirrochroa thais) has been officially declared as state butterfly of Tamil Nadu. The southern State formally notified this by an order on lines of the State Tree (Palm), Bird (Emerald Dove), Flower (Gloriosa) and Animal (Nilgiri Tahr)."
+    },
+    {
+        "question": "Who cricket player has become leading run-getter in 2019 World Cup?",
+        "option": {
+            "a": "John Bairstow",
+            "b": "Hyder Ali",
+            "c": "Chris Gayle",
+            "d": "Rohit Sharma"
+        },
+        "answer": "Rohit Sharma",
+        "description": "Indian opener Rohit Sharma on Tuesday surpassed David Warner (currently 516) to become the leading run-getter in the ongoing World Cup after scoring his fourth hundred of the tournament."
+    },
+    {
+        "question": "Who has been appointed as Union Minister of Information and Broadcasting?",
+        "option": {
+            "a": "P Jai Shankar",
+            "b": "Arjun Munda",
+            "c": "Smrithi Irani",
+            "d": "Prakash Javadekar"
+        },
+        "answer": "Prakash Javadekar",
+        "description": "Union Minister of Information and Broadcasting Prakash Javadekar reviewed Ministry's prestigious project of National Film Heritage Mission (NFHM) and various activities undertaken under the project in a meeting held at National Film Archives of India (NFAI) in Pune, Maharashtra."
+    },
+    {
+        "question": "Who has become 1st sitting US president to enter North Korea?",
+        "option": {
+            "a": "Donald Trump",
+            "b": "Barack Obama",
+            "c": "Bill Clinton",
+            "d": "George Bush"
+        },
+        "answer": "Donald Trump",
+        "description": "United States President Donald Trump became 1st sitting US president to set foot in Democratic People's Republic of Korea (or North Korea) when he met its leader, Kim Jong Un, in Demilitarised Zone (DMZ) between North Korea and South Korea."
+    },
+    {
+        "question": "World UFO day is observed on__________.",
+        "option": {
+            "a": "2 July",
+            "b": "4 July",
+            "c": "10 July",
+            "d": "15 July"
+        },
+        "answer": "2 July",
+        "description": "World UFO day observed on 2 July 2019. World UFO Day is observed on July 2 every year. The main objective of celebrating this day is to encourage the government to reveal their flies on UFO sightings and related information."
+    },
+    {
+        "question": "Which cabinet minister has launched 'Whispers of Time' book?",
+        "option": {
+            "a": "Smriti Irani",
+            "b": "Arjun Munda",
+            "c": "Amit Shah",
+            "d": "Nirmala Sitharaman"
+        },
+        "answer": "Smrithi Irani",
+        "description": "Minister of Textiles and Minister of Women and Child Development, Smriti Zubin Irani launched new book \"Whispers of Time\". It is written by Dr. Krishna Saksena (91) at the India International Centre in New Delhi. The book was published by Prabhat Prakashan."
+    },
+    {
+        "question": "34th Sailing Championship inaugurated in ____________.",
+        "option": {
+            "a": "Orissa",
+            "b": "Himachal Pradesh",
+            "c": "Telangana",
+            "d": "Jharkhand"
+        },
+        "answer": "Telangana",
+        "description": "The 34th edition of Hyderabad Sailing Week National Ranking Multi- Class Championship 2019 was inaugurated by Governor of Telangana and Andhra Pradesh, ESL Narasimhan in Hyderabad, Telangana."
+    },
+    {
+        "question": "Who has been elected as new chairman of Microfinance Institutions Network (MFIN)?",
+        "option": {
+            "a": "Ram Desai",
+            "b": "Naveen Prabhu",
+            "c": "Vijay Babu",
+            "d": "Manoj Kumar Nambiar"
+        },
+        "answer": "Manoj Kumar Nambiar ",
+        "description": "Manoj Kumar Nambiar Managing Director of Arohan Financial Services has been elected as new chairman of Microfinance Institutions Network (MFIN). He was elected at 6th annual general meeting of MFIN."
+    },
+    {
+        "question": "Kaziranga National Park is located at_____________.",
+        "option": {
+            "a": "Meghalaya",
+            "b": "Assam",
+            "c": "Bihar",
+            "d": "West Bengal"
+        },
+        "answer": "Assam",
+        "description": "An 82-member Special Rhino Protection Force which is trained to combat poachers and understand animal behaviour was recently deployed in Kaziranga National Park (KNP)."
+    },
+    {
+        "question": "BK Birla is died at 98, is associated with__________.",
+        "option": {
+            "a": "Guitarist",
+            "b": "Industrialist",
+            "c": "Novelist",
+            "d": "Car Racer"
+        },
+        "answer": "Industrialist",
+        "description": "Industrialist Basant Kumar Birla, the youngest son of Ghanshyam Das Birla and the grandfather of Kumar Mangalam Birla, passed away in Mumbai on Wednesday aged 98."
+    },
+    {
+        "question": "Vaibhav Yadav won WBC Asia title, is associated with____________.",
+        "option": {
+            "a": "Boxing",
+            "b": "Swimming",
+            "c": "Karate",
+            "d": "Ludo"
+        },
+        "answer": "Boxing",
+        "description": "Indian pro boxer Vaibhav Yadav became the WBC Asia silver welterweight champion after defeating Thailand's Fahpetch Singmanassak in Patayya."
+    },
+    {
+        "question": "Which players has registered the highest ever opening partnership for India in a World Cup match?",
+        "option": {
+            "a": "Dhoni and Hardik Pandya",
+            "b": "Rohit Sharma and Kholi",
+            "c": "Rohit Sharma and KL Rahul",
+            "d": "Dhoni and KL Rahul"
+        },
+        "answer": "Rohit Sharma and KL Rahul",
+        "description": "Rohit Sharma and KL Rahul registered the highest ever opening partnership for India in a World Cup match, scoring 180 runs for the first wicket against Bangladesh in the 2019 World Cup."
+    },
+    {
+        "question": "Centre to raise Health Services Expenditure to ________ of GDP by 2025.",
+        "option": {
+            "a": "2.1%",
+            "b": "2.3%",
+            "c": "2.5%",
+            "d": "2.9%"
+        },
+        "answer": "2.5%",
+        "description": "Union Health Minister Dr. Harsh Vardhan while addressing a query during Question Hour in Rajya Sabha announced that Government has set a target to raise health services expenditure to 2.5% of country's GDP (Gross domestic product) by 2025."
+    },
+    {
+        "question": "STRIDE scheme is for____________.",
+        "option": {
+            "a": "Education",
+            "b": "Sports",
+            "c": "Women",
+            "d": "Children"
+        },
+        "answer": "Education",
+        "description": "University Grants Commission (UGC) has launched STRIDE scheme to boost research culture and innovation in colleges and universities. STRIDE stands for Scheme for Trans-disciplinary Research for India's Developing Economy."
+    },
+    {
+        "question": "Economic Survey for 2018-19 predicted a _____ percent GDP growth for financial year 2019-20.",
+        "option": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "8"
+        },
+        "answer": "7",
+        "description": "Economic Survey for 2018-19 predicted a 7 percent GDP growth for financial year 2019-20. Union Finance Minister Nirmala Sitharaman tabled the Economic Survey for 2018-19 in the Parliament on 5 July."
+    },
+    {
+        "question": "Ursula von der Leyen is appointed as European Commission president, she is associated with___________.",
+        "option": {
+            "a": "Switzerland",
+            "b": "Germany",
+            "c": "Geneva",
+            "d": "Canada"
+        },
+        "answer": "Germany",
+        "description": "Germany's Ursula von der Leyen is appointed by European Union (EU) leaders as bloc's next Chief Executive (European Commission president). She will be the first woman in history to hold the position."
+    },
+    {
+        "question": "Economic Survey for 2018-19 predicted a _____ percent GDP growth for financial year 2019-20.",
+        "option": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "8"
+        },
+        "answer": "7",
+        "description": "Economic Survey for 2018-19 predicted a 7 percent GDP growth for financial year 2019-20. Union Finance Minister Nirmala Sitharaman tabled the Economic Survey for 2018-19 in the Parliament on 5 July."
+    },
+    {
+        "question": "USISPF- in this 'I' represents_________.",
+        "option": {
+            "a": "Inter",
+            "b": "Information",
+            "c": "India",
+            "d": "None of these"
+        },
+        "answer": "India",
+        "description": "US-India Strategic Partnership Forum (USISPF) has selected MasterCard CEO and President Ajay Banga and Wipro Chairman Azim Premji for its 2019 Global Excellence Awards."
+    },
+    {
+        "question": "1st-ever India International Cooperatives Trade Fair to be held in ___________.",
+        "option": {
+            "a": "New Delhi",
+            "b": "New Zealand",
+            "c": "Mumbai",
+            "d": "Sweden"
+        },
+        "answer": "New Delhi",
+        "description": "The First Ever India International Cooperatives Trade Fair (IICTF) will be held at Pragati Maidan in New Delhi. It scheduled from 11th till 13th October 2019. It is a unique initiative for taking farmers, artisans & other members of cooperatives directly to global trade arena."
+    },
+    {
+        "question": "International Monetary Fund (IMF) headquarter is situated in_________.",
+        "option": {
+            "a": "Washington",
+            "b": "Saudi Arabia",
+            "c": "Greenland",
+            "d": "Norway"
+        },
+        "answer": "Washington",
+        "description": "International Monetary Fund (IMF) Managing Director Christine Lagarde has been confirmed as new head of European Central bank (ECB). Her appointment would make her 1st woman to lead powerful institution of ECB."
+    },
+    {
+        "question": "Which state has achieved first rank in NITI Aayog launched \"Agricultural Marketing and Farmer Friendly Reforms Index (AMFFRI)?",
+        "option": {
+            "a": "Madhya Pradesh",
+            "b": "Kerala",
+            "c": "Maharastra",
+            "d": "Tamil Nadu"
+        },
+        "answer": "Maharastra",
+        "description": "Maharashtra achieved first rank in NITI Aayog launched \"Agricultural Marketing and Farmer Friendly Reforms Index (AMFFRI), which ranks states based on the degree of reforms they have undertaken in agricultural marketing."
+    },
+    {
+        "question": "Who has been appointed as additional director on J&K Bank board?",
+        "option": {
+            "a": "Vasuki Baskar",
+            "b": "A K Mishra",
+            "c": "Naveen Patnaik",
+            "d": "Deepa Kumari"
+        },
+        "answer": "A K Mishra",
+        "description": "The Reserve Bank of India has appointed its former executive director A K Misra as additional director on the board of Jammu and Kashmir Bank (J&K Bank), the lender said."
+    },
+    {
+        "question": "Who has been appointed as director of Institute of Banking Personnel Selection (IBPS) for a period of three years?",
+        "option": {
+            "a": "Narendra Kumar",
+            "b": "Nagendra Prasad P",
+            "c": "Jeevanandhan M",
+            "d": "B Harideesh Kumar"
+        },
+        "answer": "B Harideesh Kumar",
+        "description": "B Harideesh Kumar has been appointed as director of Institute of Banking Personnel Selection (IBPS) for a period of three years."
+    },
+    {
+        "question": "Sudershan Agarwal is Died At 88, is associated with__________.",
+        "option": {
+            "a": "Sports",
+            "b": "Education",
+            "c": "Cinema",
+            "d": "Politics"
+        },
+        "answer": "Politics",
+        "description": "Former Uttarakhand Governor Sudershan Agarwal died on Wednesday after prolonged illness at a hospital in New Delhi, an official statement said. He was 88."
+    },
+    {
+        "question": "K.P.Sharma Oli is the PM of which among the following country?",
+        "option": {
+            "a": "Bangladesh",
+            "b": "Nepal",
+            "c": "Myanmar",
+            "d": "Srilanka"
+        },
+        "answer": "Nepal",
+        "description": "Centre raised its foreign aid to Nepal from Rs.750 crore to Rs.1,050 crore in the 2019-20 budget. The Indian government has raised the foreign aid to Nepal from Rs.750 crore in 2018 to Rs.1,050 crore in the 2019-20 Budget. It is an increase of 40%."
+    },
+    {
+        "question": "Jaipur is also called as_________.",
+        "option": {
+            "a": "Pearl City",
+            "b": "Temple City",
+            "c": "God's Own city",
+            "d": "Pink City"
+        },
+        "answer": "Pink City",
+        "description": "The announcement was made after the 43rd Session of the UNESCO World Heritage Committee (WHC), underway at Baku (Azerbaijan) from June 30 to July 10, examined the nomination of the Walled City of Jaipur for inclusion in the World Heritage list."
+    },
+    {
+        "question": "Government launches pan-India Jal Shakti Abhiyan scheme is for___________.",
+        "option": {
+            "a": "Conserve Water bodies",
+            "b": "Education for Girls",
+            "c": "Food For Poor",
+            "d": "Maintain Heritage Sites"
+        },
+        "answer": "Conserve Water Bodies",
+        "description": "The 'Jal Shakti Abhiyan' will focus on five aspects - water conservation and rainwater harvesting, renovation of traditional and other water bodies, reuse of water and recharging of structures, watershed development, and intensive afforestation, Drinking Water Sanitation Secretary Parmeswaran Iyer said."
+    },
+    {
+        "question": "International Day of Cooperatives is observed as___________.",
+        "option": {
+            "a": "July 01",
+            "b": "July 03",
+            "c": "July 06",
+            "d": "July 10"
+        },
+        "answer": "July 06",
+        "description": "The International Day of Cooperatives is an annual celebration of the cooperative movement that takes place on the first Saturday of July since 1923. Since 1995, the United Nations and the International Cooperative Alliance have been setting the theme for the celebration of #CoopsDay ."
+    },
+    {
+        "question": "NASSCOM & NSDC launches \"World Skills India\"-lnternational Cloud Computing Challenge 2019, which is held at___________.",
+        "option": {
+            "a": "Tokyo",
+            "b": "Osaka",
+            "c": "New Delhi",
+            "d": "Uruguay"
+        },
+        "answer": "New Delhi",
+        "description": "NASSCOM & NSDC launches Skills India\"- International Cloud Computing Challenge 2019 from July (1st - 6th 2019) at NASSCOM Campus, New Delhi."
+    },
+    {
+        "question": "International Chocolate Day is observed at____________.",
+        "option": {
+            "a": "July 01",
+            "b": "July 03",
+            "c": "July 07",
+            "d": "July 10"
+        },
+        "answer": "July 07",
+        "description": "References to World Chocolate Day being observed on 7 July have been recorded as early as 2009. Celebration of the day includes the consumption of chocolate. Some references indicate that this day celebrates the introduction of chocolate to Europe in 1550."
+    },
+    {
+        "question": "Ancient city of Babylon is located at__________.",
+        "option": {
+            "a": "China",
+            "b": "Iraq",
+            "c": "Iran",
+            "d": "Kuwait"
+        },
+        "answer": "Iraq",
+        "description": "Iraq had been lobbying since 1983 for the 4,000-year-old site to be added to the United Nations' prestigious list. The city was famous for its Hanging Gardens, which were among the Seven Wonders of the Ancient World."
+    },
+    {
+        "question": "Who has been appointed as chief financial officer of J&K Bank?",
+        "option": {
+            "a": "Udhay Kumar",
+            "b": "Ragav Abhimanuyu",
+            "c": "Sandeep Varma",
+            "d": "Rajni Saraf"
+        },
+        "answer": "Rajni Saraf",
+        "description": "Jammu and Kashmir Bank (J&K) on Saturday appointed Rajni Saraf as its chief financial officer as part of its succession planning."
+    },
+    {
+        "question": "Cameron Boyce is passed away at 20, is associate with___________.",
+        "option": {
+            "a": "Pop Singer",
+            "b": "Actor",
+            "c": "Guitarist",
+            "d": "Dancer"
+        },
+        "answer": "Actor",
+        "description": "Actor Cameron Boyce, known for his roles in Disney's 'Descendants' and its Channel show 'Jessie', passed away on Saturday."
+    },
+    {
+        "question": "Arjen Robben has announced retirement, who is a _______________.",
+        "option": {
+            "a": "Cricketer",
+            "b": "Golfer",
+            "c": "Car Racer",
+            "d": "Football Player"
+        },
+        "answer": "Football Player",
+        "description": "Former Bayern Munich and Netherlands forward Arjen Robben has announced his retirement from football."
+    },
+    {
+        "question": "Which team won FIFA Women's World Cup for 4th time?",
+        "option": {
+            "a": "Netherland",
+            "b": "Brazil",
+            "c": "USA",
+            "d": "England"
+        },
+        "answer": "USA",
+        "description": "USA clinched the 2019 World Cup after defeating Netherlands 2-0 in the final today. This is USA's fourth Women's World Cup title after having won the 1991, 1999 and 2015 editions."
+    },
+    {
+        "question": "Which team has finished third at FIFA Women's World Cup?",
+        "option": {
+            "a": "Netherland",
+            "b": "Brazil",
+            "c": "USA",
+            "d": "Sweden"
+        },
+        "answer": "Sweden",
+        "description": "Sweden defeated England 2-1 to finish at the third place in the FIFA Women's World Cup 2019. This was Sweden's third bronze medal finish at the event after their third-place finishes at the 1991 and 2011 editions."
+    },
+    {
+        "question": "Copa America title is associated with________.",
+        "option": {
+            "a": "Cricket",
+            "b": "Foot Ball",
+            "c": "Volley Ball",
+            "d": "Basket Ball"
+        },
+        "answer": "Foot Ball",
+        "description": "Brazil defeated Peru 3-1 to win their ninth Copa America title and their first since 2007. Everton and Gabriel Jesus scored one goal each in the first half, while Richarlison converted a late penalty for Brazil."
+    },
+    {
+        "question": "Which team won record 8th CONCACAF Gold Cup title?",
+        "option": {
+            "a": "Mexico",
+            "b": "Uruguay",
+            "c": "USA",
+            "d": "England"
+        },
+        "answer": "Mexico",
+        "description": "Mexico defeated USA 1-0 to claim a record eighth CONCACAF Gold Cup title on Monday. Jonathan dos Santos scored the winning goal in the 73rd minute for Mexico."
+    },
+    {
+        "question": "Budj Bim Cultural Landscape is located in_________.",
+        "option": {
+            "a": "Australia",
+            "b": "Japan",
+            "c": "California",
+            "d": "Washington"
+        },
+        "answer": "Australia",
+        "description": "Australian Aboriginal site 'Budj Bim Cultural Landscape' in southwest Victoria has been added to UNESCOS's World Heritage List. It was added to UNESCOS's World Heritage List at a meeting in Baku, in Azerbaijan following a decadeslong campaign by traditional owners."
+    },
+    {
+        "question": "Who has released book titled Vivekadeepini?",
+        "option": {
+            "a": "President",
+            "b": "Vice President",
+            "c": "Prime Minister",
+            "d": "Finance Minister"
+        },
+        "answer": "Vice President",
+        "description": "Vice President of India, Shri M. Venkaiah Naidu releases a book titled 'Vivekadeepini', a concise book of aphorisms (a memorable expression of a general truth or principle initially written by Adi Shankaracharya, one of India's greatest spiritual and literary geniuses."
+    },
+    {
+        "question": "Operation Sudarshan is launched by __________________.",
+        "option": {
+            "a": "Border Security Force",
+            "b": "Army",
+            "c": "CRPF",
+            "d": "Air Force"
+        },
+        "answer": "Border Security Force ",
+        "description": "Border Security Force (BSF) has launched a massive exercise, code named as Sudarshan, to fortify Anti-Infiltration Grid along Pakistan border in Punjab and Jammu. The operation was launched on 1 July and is expected to be finished within a fortnight."
+    },
+    {
+        "question": "\"Digital Udaan' program is launched by___________.",
+        "option": {
+            "a": "BSNL",
+            "b": "Reliance Jio",
+            "c": "Railway",
+            "d": "UIDAI"
+        },
+        "answer": "Reliance Jio",
+        "description": "Reliance Jio has launched a digital literacy program for first-time Internet users in India. As part of the \"Digital Udaan\" initiative in collaboration with Facebook, Reliance Jio will engage with its users every Saturday. The company will help users learn about JioPhone features and use of various apps. This also includes Internet safety and use of Facebook."
+    },
+    {
+        "question": "Who won CANADA OPEN title in badminton Tournament?",
+        "option": {
+            "a": "Kodai Naraoka",
+            "b": "Kunlavut Vitidsarn",
+            "c": "Parupalli Kashyap",
+            "d": "Li Shifeng"
+        },
+        "answer": "Li Shifeng",
+        "description": "It was youth over experience as 19-year-old Li Shifeng beated India's Parupalli Kashyap but podium experience counted as past champions prevailed in two other finals at the 2019 Canada Open."
+    },
+    {
+        "question": "Vinesh Phogat , Divya Kakran won gold at Grand Prix of Spain, are associated with_____________.",
+        "option": {
+            "a": "Swimming",
+            "b": "Wrestling",
+            "c": "Shooting",
+            "d": "None of these"
+        },
+        "answer": "Wrestling",
+        "description": "At the Grand Prix of Spain Women's Wrestling India's top wrestler Vinesh Phogat won her 1st gold medal after shifting to 53kg category and Divya Kakran claimed top honours in 68kg category in Madrid, Spain."
+    },
+    {
+        "question": "Mirabai Chanu won a gold medal on the opening day of the Commonwealth Championship, is associated with__________.",
+        "option": {
+            "a": "Swimming",
+            "b": "Wrestling",
+            "c": "Shooting",
+            "d": "Weightlifting"
+        },
+        "answer": "Weightlifting",
+        "description": "Former world champion Mirabai Chanu won a gold medal on the opening day of the Commonwealth Weightlifting Championship."
+    },
+    {
+        "question": "Who has been appointed as head of EV business of Hero MotoCorp?",
+        "option": {
+            "a": "Rajat Bhargava",
+            "b": "Simon Parupali",
+            "c": "Vedant Krishnamurthy",
+            "d": "Amar Nath"
+        },
+        "answer": "Rajat Bhargava",
+        "description": "India's largest two-wheeler maker Hero MotoCorp on Tuesday appointed Rajat Bhargava as the head of its new 'Emerging Mobility' business unit."
+    },
+    {
+        "question": "Which cricketer has become 2nd Indian cricketer after Sachin to play 350 ODIs?",
+        "option": {
+            "a": "Rohit Sharma",
+            "b": "Hardik Pandya",
+            "c": "MS Dhoni",
+            "d": "Virat Kholi"
+        },
+        "answer": "MS Dhoni",
+        "description": "Former Team India captain MS Dhoni on Tuesday became the second Indian cricketer after Sachin Tendulkar to play 350 matches in ODI cricket."
+    },
+    {
+        "question": "Who has been appointed as new Indian brand ambassador for REEBOK?",
+        "option": {
+            "a": "Anushka Shama",
+            "b": "Katrina Kaif",
+            "c": "Saif Ali Khan",
+            "d": "Ponam Kapoor"
+        },
+        "answer": "Katrina Kaif",
+        "description": "Leading fitness brand Reebok, which boasts of global assets like Victoria Beckham has announced Bollywood actor and wellness enthusiast, Katrina Kaif, as their new Indian brand ambassador."
+    },
+    {
+        "question": "Vinesh Phogat , Divya Kakran won gold at Grand Prix of Spain, are associated with_____________.",
+        "option": {
+            "a": "Swimming",
+            "b": "Wrestling",
+            "c": "Shooting",
+            "d": "None of these"
+        },
+        "answer": "Wrestling",
+        "description": "At the Grand Prix of Spain Women's Wrestling India's top wrestler Vinesh Phogat won her 1st gold medal after shifting to 53kg category and Divya Kakran claimed top honours in 68kg category in Madrid, Spain."
+    },
+    {
+        "question": "Among the following countries, which country PM is Kyriakos Mitsotakis ?",
+        "option": {
+            "a": "Netherland",
+            "b": "Sweden",
+            "c": "Mexico",
+            "d": "Greece"
+        },
+        "answer": "Greece",
+        "description": "Greece's new conservative Prime Minister Kyriakos Mitsotakis was sworn in after a sweeping election victory."
+    },
+    {
+        "question": "Who has been appointed as head of cricket at National Cricket Academy?",
+        "option": {
+            "a": "Rahul Dravid",
+            "b": "Sachin Tendulkar",
+            "c": "Sanjay Manjrekar",
+            "d": "Saurav Ganguly"
+        },
+        "answer": "Rahul Dravid",
+        "description": "Former India captain Rahul Dravid has been appointed as Head of Cricket at the National Cricket Academy (NCA), the BCCI has announced."
+    },
+    {
+        "question": "Utkarsh 2022 is launched by___________.",
+        "option": {
+            "a": "RBI",
+            "b": "Reliance Jio",
+            "c": "Air Force",
+            "d": "None of these"
+        },
+        "answer": "RBI",
+        "description": "This medium term strategy - named Utkarsh 2022 - is in line with the global central banks' plan to strengthen the regulatory and supervisory mechanism, sources aware of the board meeting told The Hindu."
+    },
+    {
+        "question": "Ascendas-Singbridge is a____________ -based company.",
+        "option": {
+            "a": "Iceland",
+            "b": "Norway",
+            "c": "Singapore",
+            "d": "Uruguay"
+        },
+        "answer": "Singapore",
+        "description": "Singapore-based investor CapitaLand Ltd on Sunday said it has completed the purchase of Temasek Holdings-owned Ascendas-Singbridge Pte. Ltd."
+    },
+    {
+        "question": "Who has been appointed as country manager for India for LinkedIn?",
+        "option": {
+            "a": "Lenin Martin",
+            "b": "Smrithi Sathyan",
+            "c": "Meghna Poshin",
+            "d": "Ashutosh Gupta"
+        },
+        "answer": "Ashutosh Gupta",
+        "description": "Microsoft-owned social networking site for professionals, LinkedIn, has appointed Ashutosh Gupta as the new country manager for India operations."
+    },
+    {
+        "question": "Catholic Syrian Bank headquarter is situated in_________.",
+        "option": {
+            "a": "Tanjavur",
+            "b": "Thrissur",
+            "c": "Secundarabad",
+            "d": "Pune"
+        },
+        "answer": "Thrissur",
+        "description": "Kerala-based private lender CSB Bank, earlier known as The Catholic Syrian Bank Ltd, is set to file its draft initial public offering (IPO) papers, said two people aware of the development."
+    },
+    {
+        "question": "UNMISS is associated with which country?",
+        "option": {
+            "a": "South Sudan",
+            "b": "Washington",
+            "c": "Kenya",
+            "d": "Algeria"
+        },
+        "answer": "South Sudan",
+        "description": "Lieutenant General Shailesh Sadashiv Tinaikar has been newly appointed as the Force Commander of the UN mission in South Sudan."
+    },
+    {
+        "question": "Which Indian Film won NETPAC award in Bucheon film festival?",
+        "option": {
+            "a": "Pink",
+            "b": "Tolet",
+            "c": "Gully Boy",
+            "d": "Kanne Kalaimaney"
+        },
+        "answer": "Gully Boy",
+        "description": "Film-maker Zoya Akhtar's directorial 'Gully Boy' won the Network for the Promotion of Asian Cinema (NETPAC) Award at the 23rd Bucheon International Fantastic Film Festival (BIFAN) in South Korea."
+    },
+    {
+        "question": "Which State government has planning to make HIV tests mandatory before the registration of marriages?",
+        "option": {
+            "a": "Kerala",
+            "b": "Goa",
+            "c": "Pondicherrry",
+            "d": "Diu and Daman"
+        },
+        "answer": "Goa",
+        "description": "Goa State government is planning to make HIV tests mandatory before the registration of marriages."
+    },
+    {
+        "question": "Who has been appointed in Civil Aviation as the new Director General?",
+        "option": {
+            "a": "Hardik Ram",
+            "b": "Arun Kumar",
+            "c": "Kamal Nath",
+            "d": "Vijender Singh"
+        },
+        "answer": "Arun Kumar",
+        "description": "Appointments Committee of Cabinet headed by Prime Minister Narendra Modi has approved appointment of Arun Kumar, Additional Secretary and Financial Advisor, to Union Ministry of Civil Aviation as the new Director General (DG)."
+    },
+    {
+        "question": "Which railway zone won Best Innovation Award for Plan Bee?",
+        "option": {
+            "a": "Southern Railway",
+            "b": "North central Railway",
+            "c": "South Western Railway",
+            "d": "Northeast Frontier Railway"
+        },
+        "answer": "Northeast Frontier Railway",
+        "description": "A unique strategy adopted by Northeast Frontier Railway (NFR) called 'Plan Bee' to keep wild elephants away from train tracks has won the 'Best Innovation Award' in Indian Railways for the 2018-19 fiscal. The prize is awarded by Indian Railways and comprises of a citation and a cash award of Rs.3 lakh."
+    },
+    {
+        "question": "National Museum of Indian Cinema's news bulletin launched in____________.",
+        "option": {
+            "a": "New Delhi",
+            "b": "Hyderabad",
+            "c": "Chennai",
+            "d": "Mumbai"
+        },
+        "answer": "Mumbai",
+        "description": "A fortnightly bulletin of the National Museum of Indian Cinema as \"NMIC Bulletin\", brought out by the Films Division was launched in Mumbai, Maharashtra."
+    },
+    {
+        "question": "A.U. Celestine is passed away at 73, is associated with___________.",
+        "option": {
+            "a": "Cricket",
+            "b": "Hockey",
+            "c": "Foot Ball",
+            "d": "None of these"
+        },
+        "answer": "Foot Ball",
+        "description": "Former India goalkeeper AU Celestine died in Chennai after a brief illness, his family said. He was 73 and is survived by his wife and son. Celestine passed away at a hospital."
+    },
+    {
+        "question": "Who has been appointed as CMD, Bharat Heavy Electricals Ltd. (BHEL)?",
+        "option": {
+            "a": "Nalin Singhal",
+            "b": "Nitin Gupta",
+            "c": "Trivedi Moyal",
+            "d": "Abubuvker Aslam"
+        },
+        "answer": "Nalin Singhal",
+        "description": "The ACC has reportedly approved the appointment of Dr. Nalin Singhal for the post of Chairman and Managing Director (CMD), Bharat Heavy Electricals Ltd. (BHEL) Presently Dr. Singhal is serving as CMD CEL."
+    },
+    {
+        "question": "Who is the 1st Indian won 100m gold at World University Games?",
+        "option": {
+            "a": "PV Sindhu",
+            "b": "Dutee Chand",
+            "c": "Hima Das",
+            "d": "Mirabai CHannu"
+        },
+        "answer": "Dutee Chand",
+        "description": "Sprinter Dutee Chand bagged gold medal in the women's 100- metre event at the 30th World University Games in Italy's Naples, clocking a time of 11.32 seconds."
+    },
+    {
+        "question": "Tarkash is associated with___________.",
+        "option": {
+            "a": "Application",
+            "b": "Ship",
+            "c": "Gun",
+            "d": "Virus"
+        },
+        "answer": "Ship",
+        "description": "To establish India's credentials as a net security provider in the Indo-Pacific region, Indian Naval Ship Tarkash reached Tangier in Morocco on Monday for a three-day visit. It is part of an ongoing overseas deployment by the Indian Navy to the Mediterranean Sea, Africa and Europe."
+    },
+    {
+        "question": "Toran Yadav, a para-athlete won a silver medals at___________.",
+        "option": {
+            "a": "Athletics",
+            "b": "Long Jump",
+            "c": "Yoga",
+            "d": "Shot Put"
+        },
+        "answer": "Yoga",
+        "description": "Para-athlete Toran Yadav from chhattisgarh has won 3 silver medals at 4th World Wealth Yoga Championship in Europe. The 19 year old started yoga at the age of 9 and soon was selected to represent India."
+    },
+    {
+        "question": "World Population Day is observed on_________.",
+        "option": {
+            "a": "June 18",
+            "b": "June 25",
+            "c": "July 03",
+            "d": "July 11"
+        },
+        "answer": "July 11",
+        "description": "World Population day is an annual event, observed on July 11 every year, which seeks to raise awareness of global population issues."
+    },
+    {
+        "question": "Who has become the only Indian to enter Forbes magazine's Highest-Paid Entertainers List 2019?",
+        "option": {
+            "a": "Salman Khan",
+            "b": "Akshay Kumar",
+            "c": "Rajinikanth",
+            "d": "Punith Rajkumar"
+        },
+        "answer": "Akshay Kumar ",
+        "description": "With $65 million (Rs. 444 crore), Akshay Kumar has become the only Indian to enter Forbes magazine's Highest-Paid Entertainers List 2019."
+    },
+    {
+        "question": "Rakhi Halder and Davinder Kaur won a gold medal each in the senior women's section in Commonwealth Championships in which field?",
+        "option": {
+            "a": "Weightlifting",
+            "b": "Wrestling",
+            "c": "Shooting",
+            "d": "Air Rifling"
+        },
+        "answer": "weightlifting",
+        "description": "Indian weightlifters Rakhi Halder and Davinder Kaur won a gold medal each in the senior women's section on the second day of Commonwealth Championships ."
+    },
+    {
+        "question": "Who has bagged the top honours at the All India Football Federation's AIFF Awards in the women's category ?",
+        "option": {
+            "a": "Ashalata Devi",
+            "b": "Divya Kumari",
+            "c": "Gayathri Kannan",
+            "d": "Nandhini Madappan"
+        },
+        "answer": "Ashalata Devi ",
+        "description": "Indian men's football team captain Sunil Chhetri and women's footballer Ashalata Devi bagged the top honours at the All India Football Federation's AIFF Awards on Tuesday."
+    },
+    {
+        "question": "Soyuz-2.1a carrier rocket is associated with__________.",
+        "option": {
+            "a": "China",
+            "b": "Japan",
+            "c": "Russia",
+            "d": "USA"
+        },
+        "answer": "Russia",
+        "description": "Russia successfully launched its Soyuz-2.1a carrier rocket on Friday with a hydrometeorological satellite and 32 small satellites, the Russian state space corporation Roscosmos said."
+    },
+    {
+        "question": "Swadhar Greh Scheme is for__________.",
+        "option": {
+            "a": "Women",
+            "b": "Youngsters",
+            "c": "Girl Childs",
+            "d": "Adults"
+        },
+        "answer": "Women",
+        "description": "The Ministry of Women and Child Development is implementing the Swadhar Greh Scheme for rehabilitation of women in difficult circumstances. The scheme covers women who are deserted and without any social and economic support, women victims of domestic violence, family tension and natural disaster."
+    },
+    {
+        "question": "Mission Raksha Gyan Shakti scheme is for____________.",
+        "option": {
+            "a": "Railways",
+            "b": "Colleges",
+            "c": "Villages",
+            "d": "Defence"
+        },
+        "answer": "Defence",
+        "description": "To give a boost to Mission Raksha Gyan Shakti, a Memorandum of Understanding (MoU) has been signed between the Intellectual Property Facilitation Cell (IPFC), Ministry of Defence (MoD) and National Research Development Corporation (NRDC)."
+    },
+    {
+        "question": "Roscosmos space agency company is associted with___________.",
+        "option": {
+            "a": "Japan",
+            "b": "Indonesia",
+            "c": "Australia",
+            "d": "Russia"
+        },
+        "answer": "Russia",
+        "description": "Soyuz-2.1a carrier rocket on Friday with a hydrometeorological satellite and 32 small satellites, the Russian state space corporation Roscosmos said."
+    },
+    {
+        "question": "Walmart is an ___________-based company.",
+        "option": {
+            "a": "UK",
+            "b": "USA",
+            "c": "Japan",
+            "d": "Singapore"
+        },
+        "answer": "USA",
+        "description": "Walmart Labs, the technology arm of the US retail giant Walmart, has bought two Bengaluru-based startups to strengthen its customer service systems. The company acqui-hired healthtech startup FloCare and B2B wholesale trading platform BigTrade for undisclosed sums."
+    },
+    {
+        "question": "Who has been appointed as Secretary in the Consular, Passport, Visa and Overseas Indian Affairs division?",
+        "option": {
+            "a": "Vivek Unni",
+            "b": "Vikas Swarup",
+            "c": "Mohan Vaidhya",
+            "d": "Aishwarya Dutta"
+        },
+        "answer": "Vikas Swarup ",
+        "description": "India's current High Commissioner to Canada Vikas Swarup has been appointed as Secretary in the Consular, Passport, Visa and Overseas Indian Affairs division, with effect from August 1."
+    },
+    {
+        "question": "India Holds First Ever Artificial Limb Fitment Camp in ________.",
+        "option": {
+            "a": "Tanzania",
+            "b": "Brazil",
+            "c": "Mexico",
+            "d": "Italy"
+        },
+        "answer": "Tanzania",
+        "description": "The doctrine of Humanity, India offering to the world since long ago through 'actions'. The six-week-long Artificial Limb Fitment Camp in Tanzania which benefited over 500 differently abled Tanzanians."
+    },
+    {
+        "question": "Amrabad Tiger Reserve is located at_______.",
+        "option": {
+            "a": "Madhya Pradesh",
+            "b": "Maharastra",
+            "c": "Sikkim",
+            "d": "Telangana"
+        },
+        "answer": "Telangana",
+        "description": "The Union Ministry of Environment and Forests (MoEF) has recommended for the survey and exploration of uranium in Amrabad Tiger Reserve, Telangana."
+    },
+    {
+        "question": "According to WHO, which country has been declared as measles free country?",
+        "option": {
+            "a": "India",
+            "b": "Indonesia",
+            "c": "Thailand",
+            "d": "Sri Lanka"
+        },
+        "answer": "Sri Lanka",
+        "description": "The World Health Organization (WHO) Wednesday said that Sri Lanka had successfully eliminated measles from the island country. The WHO praised Sri Lanka's achievement in a statement at a time when measles cases were increasing globally."
+    },
+    {
+        "question": "India's first elephant rehabilitation centre is located at__________.",
+        "option": {
+            "a": "Tamil Nadu",
+            "b": "Karnataka",
+            "c": "Kerala",
+            "d": "Manipur"
+        },
+        "answer": "Kerala",
+        "description": "The Kerala government is working to set up the country's first elephant rehabilitation centre in Kottoor, an ecotourism village near the state capital Thiruvananthapuram."
+    },
+    {
+        "question": "According to UN Report, Overall Homicide Rate is ______ in India.",
+        "option": {
+            "a": "5%",
+            "b": "10%",
+            "c": "15%",
+            "d": "20%"
+        },
+        "answer": "10%",
+        "description": "The overall homicide rate in India has decreased by 10 per cent over a period of six years till 2015 but the trend increased \"noticeably\" in some northern states, according to a UN report."
+    },
+    {
+        "question": "National Simplicity Day is celebrated on ____________.",
+        "option": {
+            "a": "10 July",
+            "b": "12 July",
+            "c": "03 August",
+            "d": "10 Augus"
+        },
+        "answer": "12 July",
+        "description": "National Simplicity Day is observed in honour of the birthday of Henry David Thoreau, He encourages to step back and look the ways to simplify life in such a busy lifestyle. This provide us an opportunity to eliminate the unnecessary burdens that weigh us down."
+    },
+    {
+        "question": "Who is the CEO of Amazon?",
+        "option": {
+            "a": "John Williams",
+            "b": "Sam Anderson",
+            "c": "Mark Zukerberg",
+            "d": "Jeff Bezos"
+        },
+        "answer": "Jeff Bezos",
+        "description": "US-based e-commerce giant Amazon has made an equity investment of Rs. 51 crore in QDigi, an after-sales support company for electronic products. QDigi is a subsidiary of Quess Corp, a Bengaluru-based listed business services firm."
+    },
+    {
+        "question": "Who is the CM of Odisha?",
+        "option": {
+            "a": "Naveen Patnaik",
+            "b": "Arun Jaitley",
+            "c": "Karan Chand",
+            "d": "P Jaishankar"
+        },
+        "answer": "Naveen Patnaik",
+        "description": "The state government on Monday informed the Orissa High Court that it has implemented the Centre's Witness Protection Scheme-2018."
+    },
+    {
+        "question": "Sathiyan, Amalraj won India's 1st ever medal at Australian Open, is associated with____________.",
+        "option": {
+            "a": "Tennis",
+            "b": "Table Tennis",
+            "c": "Badminton",
+            "d": "Cricket"
+        },
+        "answer": "Tennis",
+        "description": "Indian table tennis players G Sathiyan and Anthony Amalraj won India its first-ever medal at the World Tour Platinum Australian Open after claiming the bronze medal in the men's doubles competition."
+    },
+    {
+        "question": "Which state government has observed Save Water Day on july 12 to spread the message of water conservation?",
+        "option": {
+            "a": "Sikkim",
+            "b": "Odisha",
+            "c": "West Bengal",
+            "d": "Chattisgarh"
+        },
+        "answer": "West Bengal",
+        "description": "On 12 July 2019, West Bengal government observed Save Water Day across the state to spread the message of water conservation."
+    },
+    {
+        "question": "Who has been appointed as World Bank's MD and CFO?",
+        "option": {
+            "a": "Bipin Das",
+            "b": "Anshula Kant",
+            "c": "Steffi Mary",
+            "d": "RajKamal"
+        },
+        "answer": "Anshula Kant",
+        "description": "Anshula Kant, Managing Director of State Bank of India (SBI) has been appointed as Managing Director and Chief Financial Officer (CFO) of World Bank."
+    },
+    {
+        "question": "Kharchi Puja Festival is celebrated in ________.",
+        "option": {
+            "a": "Manipur",
+            "b": "Tripura",
+            "c": "Meghalaya",
+            "d": "Bhopal"
+        },
+        "answer": "Tripura",
+        "description": "The annual festival of worship of 14 Gods, popularly known as Kharchi Puja is being celebrated in Tripura. It started at Chaturdash Devata Bari in old Agartala (Puran Agartala). The festival began on 10 July will continue till 16 July 2019."
+    },
+    {
+        "question": "Operation Thirst has launched by __________.",
+        "option": {
+            "a": "Air Force",
+            "b": "Navy",
+            "c": "CPRF",
+            "d": "Railway Protection Force"
+        },
+        "answer": "Railway Protection Force",
+        "description": "Railway Protection Force (RPF) recently launched 'Operation Thirst' to stop selling of unauthorised Packaged Drinking Water (PDW)."
+    },
+    {
+        "question": "Film Divisions to launch documentary film club in _____________.",
+        "option": {
+            "a": "Delhi",
+            "b": "Chennai",
+            "c": "Mumbai",
+            "d": "Bangalore"
+        },
+        "answer": "Mumbai",
+        "description": "Film Divisions launch KSHITIJ, a documentary film club in Mumbai. An acclaimed documentary film \"Secret Life of Frogs\" by Ajay and Vijay Bedi screened as the inaugural film."
+    },
+    {
+        "question": "'Women Startup Summit 2019' is held at__________.",
+        "option": {
+            "a": "Kochi",
+            "b": "Hyderabad",
+            "c": "Coimbatore",
+            "d": "Jaipur"
+        },
+        "answer": "Kochi",
+        "description": "The 'Women Startup Summit 2019' aims at encouraging aspiring women professionals to take up their entrepreneurial journey and developing an inclusive entrepreneurship ecosystem in the State."
+    },
+    {
+        "question": "Which survey has said that India will this year overtake the UK to become the world's fifth biggest economy?",
+        "option": {
+            "a": "UNO",
+            "b": "General Survey",
+            "c": "Economic Survey",
+            "d": "IHS Markit"
+        },
+        "answer": "IHS Markit",
+        "description": "India will this year overtake the UK to become the world's fifth biggest economy, and is poised to surpass Japan to be the third largest in 2025, IHS Markit said in a report ."
+    },
+    {
+        "question": "National Seminar Cum Workshop on Statistics and Sustainable Development in __________.",
+        "option": {
+            "a": "Jamshedpur",
+            "b": "Lucknow",
+            "c": "Dispur",
+            "d": "Indore"
+        },
+        "answer": "Lucknow",
+        "description": "A two days' National Seminar Cum Workshop on \"Statistics and Sustainable Development Goals\" was inaugurated by Pravin Srivastava, Chief Statistician of India and Secretary."
+    },
+    {
+        "question": "Who is the Secretary for Consular, Passport and Visa and Overseas Indian Affairs?",
+        "option": {
+            "a": "Sanjiv Arora",
+            "b": "Ramjith Dev",
+            "c": "Paraksevi",
+            "d": "Deekshith Rajan"
+        },
+        "answer": "Sanjiv Arora",
+        "description": "India, EU hold high-level talks on migration, mobilitySanjiv Arora, Secretary (Consular, Passport and Visa and Overseas Indian Affairs) and Paraskevi MICHOU, Director General (Migration and Home Affairs), European Commission put out by the Ministry of External Affairs (MEA)."
+    },
+    {
+        "question": "Disgusting Food Museum is located in ___________.",
+        "option": {
+            "a": "Norway",
+            "b": "Argentina",
+            "c": "Mexicon",
+            "d": "Sweden"
+        },
+        "answer": "Sweden",
+        "description": "Disgusting Food Museum in Sweden has a display of \"bizarre looking and smelling\" food items. It features 80 foods from around the world, including frog smoothies from Peru, fruit bat soup, Iceland's shark meat and more."
+    },
+    {
+        "question": "Sathiyan, Amalraj won India's 1st ever medal at Australian Open, is associated with____________.",
+        "option": {
+            "a": "Tennis",
+            "b": "Table Tennis",
+            "c": "Badminton",
+            "d": "Cricket"
+        },
+        "answer": "Tennis",
+        "description": "Indian table tennis players G Sathiyan and Anthony Amalraj won India its first-ever medal at the World Tour Platinum Australian Open after claiming the bronze medal in the men's doubles competition."
+    },
+    {
+        "question": "Nagarkirtan won Best Feature Film award at SAARC film festival, is associated with ___________ language.",
+        "option": {
+            "a": "Hindi",
+            "b": "Urudu",
+            "c": "Bengali",
+            "d": "Marathi"
+        },
+        "answer": "Bengali",
+        "description": "Director Kaushik Ganguly's Bengali outing Nagarkirtan, has won big at prestigious 2019's SAARC (South Asian Association for Regional Cooperation) film festival, bagging 4 awards in total, including Best Feature Film."
+    },
+    {
+        "question": "Fernando Corbato is passed away at 93, is associated with___________.",
+        "option": {
+            "a": "Radio Inventor",
+            "b": "Password Inventor",
+            "c": "Guitarist",
+            "d": "Car Racer"
+        },
+        "answer": "Password Inventor",
+        "description": "US-born Fernando Jose \"Corby\" Corbato, credited with inventing the computer password, passed away in Massachusetts at the age of 93."
+    },
+    {
+        "question": "Agri-Business Incubation Centre started in______________.",
+        "option": {
+            "a": "Chhattisgarh",
+            "b": "kerala",
+            "c": "Karnataka",
+            "d": "Tamil Nadu"
+        },
+        "answer": "Chhattisgarh",
+        "description": "An Agri Business Incubation Centre has started in Chhattisgarh. The centre has been set up by the Union Agriculture Ministry in Indira Gandhi Agriculture University of Raipur."
+    },
+    {
+        "question": "Which state became the first state in India to ensure the conservation of water ?",
+        "option": {
+            "a": "Manipur",
+            "b": "Madhya Pradesh",
+            "c": "Himachal Pradesh",
+            "d": "Meghalaya"
+        },
+        "answer": "Meghalaya",
+        "description": "Meghalaya became the first state in India to ensure the conservation of water and have own water policy following a nod given by the State Cabinet."
+    },
+    {
+        "question": "According to RBI survey, Which city is the most affordable city for homebuyers?",
+        "option": {
+            "a": "Pune",
+            "b": "Jaipur",
+            "c": "Bhubaneswar",
+            "d": "Madurai"
+        },
+        "answer": "Bhubaneswar ",
+        "description": "Bhubaneswar remains the most affordable city for homebuyers, while Mumbai remains the least affordable one in India. This was revealed in a survey report published by the Reserve Bank of India."
+    },
+    {
+        "question": "Retail inflation rises ________ in June due to costlier food products.",
+        "option": {
+            "a": "2.19%",
+            "b": "2.49%",
+            "c": "3.18%",
+            "d": "4.39%"
+        },
+        "answer": "3.18%",
+        "description": "India's retail inflation hit a eight-month high in June on higher food prices, but stayed below the central bank's target, potentially giving it room for a further interest rate easing to boost slowing growth."
+    },
+    {
+        "question": "Ajay Singh Won Gold and Creates New Commonwealth Record, is associated with_____________.",
+        "option": {
+            "a": "Weightlifter",
+            "b": "Wrestling",
+            "c": "Shooting",
+            "d": "Boxing"
+        },
+        "answer": "Weightlifter",
+        "description": "Indian weightlifter Ajay Singh Friday created a new Commonwealth record in the clean and jerk category en route to a gold medal at the Commonwealth Championships."
+    },
+    {
+        "question": "The ICC named the Team of the 2019 World Cup, which features two Indians cricketer,______________.",
+        "option": {
+            "a": "Virat Kholi and Rohit Sharma",
+            "b": "Virat Kholi and MS Dhoni",
+            "c": "Rohit Sharma and Jasprit Bumrah",
+            "d": "Jasprit Bumrah and Ravindra Jadeja"
+        },
+        "answer": "Rohit Sharma and Jasprit Bumrah",
+        "description": "The ICC named the Team of the 2019 World Cup, which features two Indians, opener Rohit Sharma and fast bowler Jasprit Bumrah."
+    },
+    {
+        "question": "Who has been appointed as the deputy chief minister of Goa?",
+        "option": {
+            "a": "Ravindranath",
+            "b": "Abbas Alem",
+            "c": "Chandrakant Kavlekar",
+            "d": "Vinayak Malik"
+        },
+        "answer": "Chandrakant Kavlekar",
+        "description": "Former leader of opposition Chandrakant Kavlekar has been appointed as the deputy chief minister of Goa."
+    },
+    {
+        "question": "Padma Shri awardee P.Raghu Ram bagged with Honorary Fellowship of the Royal College of Surgeons (FRCS) of which country?",
+        "option": {
+            "a": "Bhutan",
+            "b": "Thailand",
+            "c": "Bangladesh",
+            "d": "Afghanistan"
+        },
+        "answer": "Thailand",
+        "description": "Popular breast surgeon and Padma Shri awardee P.Raghu Ram bagged with Honorary Fellowship of the Royal College of Surgeons (FRCS) of Thailand ."
+    },
+    {
+        "question": "H.M. Ershad is passed away at 89, is belongs to which country?",
+        "option": {
+            "a": "Bangladesh",
+            "b": "China",
+            "c": "Japan",
+            "d": "Nepal"
+        },
+        "answer": "Bangladesh",
+        "description": "Bangladesh's former military dictator H.M. Ershad passed away at the age of 89. He had long been suffering from multiple complications including infections in his lungs and kidneys."
+    },
+    {
+        "question": "Who has been appointed as Governor of Himachal Pradesh?",
+        "option": {
+            "a": "Sibin Boban",
+            "b": "Sabith Aslam",
+            "c": "Vaithy Prabhu",
+            "d": "Kalraj Mishra"
+        },
+        "answer": "Kalraj Mishra",
+        "description": "Senior BJP leader and former Union Minister Kalraj Mishra was on Monday appointed as the Governor of Himachal Pradesh."
+    },
+    {
+        "question": "Who has been appointed as Governor of Gujarat?",
+        "option": {
+            "a": "Vinobav Desai",
+            "b": "Mohan Chakrabarthy",
+            "c": "Acharya Devvrat",
+            "d": "Murali Bhakshinathan"
+        },
+        "answer": "Acharya Devvrat ",
+        "description": "Acharya Devvrat, who has been transferred and appointed as the Governor of Gujarat."
+    },
+    {
+        "question": "Who won Wimbledon singles final?",
+        "option": {
+            "a": "Andrew Sam",
+            "b": "Novak Djokovic",
+            "c": "Roger Federer",
+            "d": "Sam Williamson"
+        },
+        "answer": "Roger Federer",
+        "description": "Novak Djokovic saved two championship points in Wimbledon's longest singles final to retain his title in a thrilling win over Roger Federer."
+    },
+    {
+        "question": "Which team has won World Cup Cricket?",
+        "option": {
+            "a": "New Zealand",
+            "b": "England",
+            "c": "India",
+            "d": "Pakistan"
+        },
+        "answer": "New Zealand",
+        "description": "England triumphed over New Zealand at Lord's Sunday after coming out on top in a pulsating Super Over after the scores were tied after 50 overs."
+    },
+    {
+        "question": "World Youth Skills Day is observed on ____________.",
+        "option": {
+            "a": "June 10",
+            "b": "June 28",
+            "c": "July 03",
+            "d": "July 15"
+        },
+        "answer": "July 15",
+        "description": "On 15 July 2019, there will be celebrations at UN Headquarters and across the globe to mark World Youth Skills Day (WYSD)"
+    },
+    {
+        "question": "Which bank has come up with mobile app to identify currency for visually impaired?",
+        "option": {
+            "a": "SBI",
+            "b": "RBI",
+            "c": "World Bank",
+            "d": "Both a and b"
+        },
+        "answer": "RBI",
+        "description": "The Reserve Bank of India will come out with a mobile application to help visually challenged people in identifying currency notes as cash still remains a dominant mode of transaction."
+    },
+    {
+        "question": "According to report, Asia on track to top ________ % of World GDP by 2040.",
+        "option": {
+            "a": "25",
+            "b": "50",
+            "c": "75",
+            "d": "100"
+        },
+        "answer": "50",
+        "description": "India is poised to overtake the UK to become the world's fifth largest economy, with a GDP or gross domestic production about double the size of either Canada or Russia, in the coming years, according to research by the Mckinsey Global Institute (MGI)."
+    },
+    {
+        "question": "Who has been appointed as India head for Audi?",
+        "option": {
+            "a": "Vjender Singh",
+            "b": "Vishnuvi Menon",
+            "c": "Balbir Singh Dhillon",
+            "d": "Abhay Krishna"
+        },
+        "answer": "Balbir Singh Dhillon",
+        "description": "Audi, the third biggest German luxury car maker in the fiercely competitive luxury car market, has announced a change of guard, naming Balbir Singh Dhillon as Head at Audi India to arrest the declining sales over last three straight years."
+    },
+    {
+        "question": "Ben Stokes, who scored 84*(98) in the 2019 World Cup cricket final was named \"Man of the Final\", is belongs to______________.",
+        "option": {
+            "a": "England",
+            "b": "New Zealand",
+            "c": "Bangladesh",
+            "d": "Australia"
+        },
+        "answer": "England",
+        "description": "England all-rounder Ben Stokes, who scored 84*(98) in the 2019 World Cup final against New Zealand, was named Man of the Final."
+    },
+    {
+        "question": "Who has been appointed as BJP's National General Secretary (Organisation)?",
+        "option": {
+            "a": "BL Santosh",
+            "b": "Narayana Moorthy",
+            "c": "Harihara Vasudevan",
+            "d": "Chidambara Nath"
+        },
+        "answer": "BL Santosh",
+        "description": "Santosh, previously the party's Joint General Secretary (Organisation), took over from Ramlal, who went back to the Rashtriya Swayamsevak Sangh after serving for one of the longest terms in the key party post."
+    },
+    {
+        "question": "Sharath Kamal voted IOC Sportsperson of the Year,is associated with__________.",
+        "option": {
+            "a": "Cricket",
+            "b": "Tennis",
+            "c": "Badminton",
+            "d": "Wrestling"
+        },
+        "answer": "Tennis",
+        "description": "Sharath Kamal is a professional table tennis player from Tamil Nadu, India."
+    },
+    {
+        "question": "The Golden Jubilee Edition of International Film Festival of India (IFFI) 2019 is held at_______.",
+        "option": {
+            "a": "Mumbai",
+            "b": "Chennai",
+            "c": "New Delhi",
+            "d": "Goa"
+        },
+        "answer": "Goa",
+        "description": "The Golden Jubilee Edition of International Film Festival of India (IFFI) has been scheduled to be held from 20-28 November 2019 in Panaji, Goa."
+    },
+    {
+        "question": "Vinesh Phogat wins gold medal at Yasar Dogu International, is associated with___________.",
+        "option": {
+            "a": "Cricket",
+            "b": "Tennis",
+            "c": "Badminton",
+            "d": "Wrestling"
+        },
+        "answer": "Wrestling",
+        "description": "India women wrestler Vinesh Phogat has defeated Russia's Ekaterina Poleshchuk and won gold at Yasar Dogu International in the 53kg category."
+    },
+    {
+        "question": "Spektr-RG Telescope was launched by______.",
+        "option": {
+            "a": "Russia",
+            "b": "China",
+            "c": "Japan",
+            "d": "USA"
+        },
+        "answer": "Russia",
+        "description": "Russia launched a Powerful X-ray space telescope called Spektr-RG from cosmodrome in Baikonur, Kazakhstan, in a joint project with Germany. The launch of telescope was originally scheduled for 21 June 2019 but was postponed twice because of a battery problem."
+    },
+    {
+        "question": "Who has been named as the interim coach of the USA cricket team?",
+        "option": {
+            "a": "Rahul Dravid",
+            "b": "Kapil Dev",
+            "c": "Kiran More",
+            "d": "Brain Lara"
+        },
+        "answer": "Kiran More",
+        "description": "Kiran More, the former Indian wicketkeeper-batsman, has been named as the interim coach of the USA cricket team."
+    },
+    {
+        "question": "French national day is also known as______________.",
+        "option": {
+            "a": "Paname Day",
+            "b": "Vilakas Day",
+            "c": "Bastille Day",
+            "d": "Love Day"
+        },
+        "answer": "Bastille Day",
+        "description": "Bastille Day is the French national day and the most important bank holiday in France! Setting the storming of the Bastille in 1789 as an essential part of the French History."
+    },
+    {
+        "question": "Which country will host 2020 session of World Heritage Committee?",
+        "option": {
+            "a": "Japan",
+            "b": "China",
+            "c": "Mexico",
+            "d": "Argentina"
+        },
+        "answer": "China",
+        "description": "The city of Fuzhou (China) will host the next session of the World Heritage Committee in 2020. This decision concluded the work of the 43rd session of the World Heritage Committee, meeting in Baku since 30 June."
+    },
+    {
+        "question": "French national day is celebrated on__________.",
+        "option": {
+            "a": "July 02",
+            "b": "July 07",
+            "c": "July 14",
+            "d": "July 18"
+        },
+        "answer": "July 14",
+        "description": "Celebrated on July, 14, Bastille Day is the French national day and the most important bank holiday in France!"
+    },
+    {
+        "question": "Spektr-RG is alsoknown as__________.",
+        "option": {
+            "a": "Russian Bubble",
+            "b": "Black Panther",
+            "c": "Roscomos",
+            "d": "Russian Hubble"
+        },
+        "answer": "Russian Hubble",
+        "description": "It is launched to observe black holes, neutron stars and magnetic fields. It is a space observatory that intends to replace Spektr-R, known as the Russian Hubble."
+    },
+    {
+        "question": "International Shooting Sport Federation (ISSF) 2019 Junior World Cup is held at___________.",
+        "option": {
+            "a": "Sweden",
+            "b": "Canada",
+            "c": "California",
+            "d": "Germany"
+        },
+        "answer": "Germany",
+        "description": "India bagged two Gold and one Silver medal in the Women's 10-metre Air Rifle event at the International Shooting Sport Federation (ISSF) Junior World Cup in Suhl, Germany."
+    },
+    {
+        "question": "Who has been appointed as the Governor of Andhra Pradesh?",
+        "option": {
+            "a": "Vajaram Naidu",
+            "b": "Biswa Bhusan Harichandan",
+            "c": "Rama Narayanan",
+            "d": "Murali Krishnan"
+        },
+        "answer": "Biswa Bhusan Harichandan ",
+        "description": "Biswa Bhusan Harichandan is appointed as the Governor of Andhra Pradesh on july 15. Bhusan will take over from ESL Narasimhan, who has served as Governor for Andhra Pradesh since December 2009."
+    },
+    {
+        "question": "Which country will host International Shooting Sport Federation (ISSF) Combined World Cup?",
+        "option": {
+            "a": "Bangladesh",
+            "b": "Thailand",
+            "c": "Australia",
+            "d": "India"
+        },
+        "answer": "India",
+        "description": "India is to host the International Shooting Sport Federation (ISSF) Combined World Cup from March 15-26, 2020."
+    },
+    {
+        "question": "Who has been appointed as Singapore International Commercial Court Judge?",
+        "option": {
+            "a": "A K Sikri",
+            "b": "Fardullah",
+            "c": "Srivatsan M",
+            "d": "Habibullah Aslam"
+        },
+        "answer": "A K Sikri",
+        "description": "Justice A K Sikri, former Supreme Court judge has been appointed as an International Judge of Singapore International Commercial Court."
+    },
+    {
+        "question": "According to a report by London-based consultancy Brand Finance, Which brand has been ranked as India's most valuable brand in 2019?",
+        "option": {
+            "a": "LG",
+            "b": "Kelvinator",
+            "c": "Tata",
+            "d": "Vu"
+        },
+        "answer": "Tata",
+        "description": "Tata's brand value rose 37% from last year to $19.6 billion, surpassing the combined value of the second and third most valued brands in India, LIC ($7.3 billion) and Infosys ($6.5 billion), respectively."
+    },
+    {
+        "question": "Who has been elected as the first female President of the European Commission by the European Parliament?",
+        "option": {
+            "a": "Ursula von der Leyen",
+            "b": "Steffi Jhohanna",
+            "c": "Racheal Layer",
+            "d": "Fadula huh Garh"
+        },
+        "answer": "Ursula von der Leyen",
+        "description": "Von der Leyen has resigned from the post of Germany's Defence Minister to take over the new role at the European Union's executive body."
+    },
+    {
+        "question": "Swarup Dutta is passed away, is associated with___________.",
+        "option": {
+            "a": "Sports",
+            "b": "Politics",
+            "c": "Cinema",
+            "d": "Both a and c"
+        },
+        "answer": "Cinema",
+        "description": "Veteran Bengali actor Swarup Dutta, best known for his versatile roles in films of the 1960s and 1970s, died at a city hospital"
+    },
+    {
+        "question": "Who has been appointed Governors of Chhattisgarh?",
+        "option": {
+            "a": "Prokithnath",
+            "b": "Vamsi Rautela",
+            "c": "Latha Rao",
+            "d": "Anusuiya Uikey"
+        },
+        "answer": "Anusuiya Uikey",
+        "description": "Rajya Sabha member Anusuiya Uikey has been appointed as Governor of Chhattisgarh. Anusuiya Uikey is a sitting member of Rajya Sabha."
+    },
+    {
+        "question": "Who is the Sports and Youth Affairs Minister?",
+        "option": {
+            "a": "Arjun Munda",
+            "b": "P Jai Shankar",
+            "c": "Smrithi Irani",
+            "d": "Kiren Rijiju"
+        },
+        "answer": "Kiren Rijiju",
+        "description": "Sports and Youth Affairs Minister Kiren Rijiju conferred Arjuna Awards to tennis player Rohan Bopanna and women cricketer Smriti Mandhana"
+    },
+    {
+        "question": "World Day for International Justice celebrated on ___________.",
+        "option": {
+            "a": "03 July",
+            "b": "11 July",
+            "c": "17 July",
+            "d": "23 July"
+        },
+        "answer": "17 July",
+        "description": "International Justice Day, is an international day celebrated throughout the world on July 17 as part of an effort to recognize the emerging system of international criminal justice."
+    },
+    {
+        "question": "Vijayveer Sidhu picked up his third gold medal , is associated with___________.",
+        "option": {
+            "a": "Wrestling",
+            "b": "Shooting",
+            "c": "Swimming",
+            "d": "Boxing"
+        },
+        "answer": "Shooting",
+        "description": "Vijayveer Sidhu picked up his third gold medal of the ongoing ISSF Junior World Cup in Suhl, Germany, combining with Rajkanwar Singh Sandhu and Adarsh Singh to clinch the men's 25m pistol team event."
+    },
+    {
+        "question": "ADB cuts India's GDP growth forecast to________ for this year.",
+        "option": {
+            "a": "5%",
+            "b": "6%",
+            "c": "7%",
+            "d": "9%"
+        },
+        "answer": "7%",
+        "description": "Asian Development Bank lowered India's GDP growth forecast to 7% for the current year on the back of fiscal shortfall concerns."
+    },
+    {
+        "question": "Repco Micro Finance headquarter is located in_________.",
+        "option": {
+            "a": "Bangalore",
+            "b": "Chennai",
+            "c": "Kerala",
+            "d": "Mumbai"
+        },
+        "answer": "Chennai",
+        "description": "Repco Micro Finance, an NBFC-MFI promoted by Repco Bank, announced that it has received Nabard's award for outstanding performance in terms of selfhelp group (SHG) linkage in Tamil Nadu for 2018-19."
+    },
+    {
+        "question": "PATA in this 'T' represents_________.",
+        "option": {
+            "a": "Travel",
+            "b": "Trade",
+            "c": "Table",
+            "d": "Tablet"
+        },
+        "answer": "Travel",
+        "description": "The Incredible India \"Find the Incredible You\" campaign released globally by the Ministry of Tourism during 2018-19 has been declared winner of the PATA (Pacific Asia Travel Association) Gold Award 2019 in the \"Marketing - Primary Government Destination\" category."
+    },
+    {
+        "question": "Anish Bhanwala won the gold medal, is associated with___________.",
+        "option": {
+            "a": "Swimming",
+            "b": "Wrestling",
+            "c": "Boxing",
+            "d": "Shooting"
+        },
+        "answer": "Shooting",
+        "description": "Anish Bhanwala won the gold medal in the 25m rapid fire pistol competition in the ISSF Junior World Cup 2019 in Suhl, Germany."
+    },
+    {
+        "question": "Commonwealth Weightlifting Championship 2019 held at ________.",
+        "option": {
+            "a": "Italy",
+            "b": "Rome",
+            "c": "Texas",
+            "d": "Samoa"
+        },
+        "answer": "Samoa",
+        "description": "Indian team secured the first spot in the medal tally of Commonwealth Weightlifting Championship 2019 held at Samoa, a country in Oceania."
+    },
+    {
+        "question": "International Solar Alliance (ISA) jointly launched by India and ___________.",
+        "option": {
+            "a": "Germany",
+            "b": "France",
+            "c": "Iran",
+            "d": "Saudi Arabia"
+        },
+        "answer": "France ",
+        "description": "Palau, an archipelago of more than 500 islands in Oceania, has become 76th signatory country to join the International Solar Alliance (ISA). The agreement was opened for signature during COP22 at Marrakech, Morocco on 15 November 2016."
+    },
+    {
+        "question": "Dibang Multipurpose Project is held at____________.",
+        "option": {
+            "a": "Madhya Pradesh",
+            "b": "Maharastra",
+            "c": "Arunachal Pradesh",
+            "d": "Sikkim"
+        },
+        "answer": "Arunachal Pradesh",
+        "description": "The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Narendra Modi has approved the expenditure on pre-investment activities and various clearances for Dibang Multipurpose Project (MPP) in Arunachal Pradesh for an amount of Rs 1600 crore."
+    },
+    {
+        "question": "International Solar Alliance launched in___________.",
+        "option": {
+            "a": "2005",
+            "b": "2010",
+            "c": "2015",
+            "d": "2020"
+        },
+        "answer": "2015",
+        "description": "ISA is a group of 122 solar resource-rich nations. It was jointly launched by India and France on November 2015."
+    },
+    {
+        "question": "Tabor Athletics Meet 2019 is held at____________.",
+        "option": {
+            "a": "Czech Republic",
+            "b": "Uganda",
+            "c": "Veninzula",
+            "d": "Osaka"
+        },
+        "answer": "Czech Republic",
+        "description": "Hima Das clinched her fourth gold of the fortnight as she won the 200m race with a creditable time in the Tabor Athletics Meet in the Czech Republic."
+    },
+    {
+        "question": "Which sports person has nominated for IAAF Veteran Pin?",
+        "option": {
+            "a": "Anju George",
+            "b": "PT Usha",
+            "c": "Vijender Singh",
+            "d": "Kamala Das"
+        },
+        "answer": "PT Usha",
+        "description": "Former Olympic track and field athlete P T Usha nominated for the International Association of Athletics Federations Veteran Pin."
+    },
+    {
+        "question": "10th Jagran Film Festival inaugurated in __________.",
+        "option": {
+            "a": "Mumbai",
+            "b": "Kolkata",
+            "c": "New Delhi",
+            "d": "Chennai"
+        },
+        "answer": "New Delhi",
+        "description": "The 10th Jagran Film Festival was inaugurated in an event held at Siri Fort Auditorium in New Delhi. It was inaugurated by Prakash Javadekar Union Minister of Information & Broadcasting."
+    },
+    {
+        "question": "Johnny Clegg is passed away at 66, is associated with_________.",
+        "option": {
+            "a": "Musician and activist",
+            "b": "Pop Singer",
+            "c": "Social Activitist",
+            "d": "Guitarist"
+        },
+        "answer": "Musician and activist",
+        "description": "One of South Africa's most celebrated musicians, Johnny Clegg, has died at the age of 66, after a long battle with pancreatic cancer."
+    },
+    {
+        "question": "Recently, which cricket team has suspended by ICC with immediate effect?",
+        "option": {
+            "a": "West Indies",
+            "b": "South Africa",
+            "c": "Pakistan",
+            "d": "Zimbabwe"
+        },
+        "answer": "Zimbabwe",
+        "description": "The International Cricket Council (ICC), in its Annual Conference meeting held in London , decided to suspend Zimbabwe Cricket with immediate effect."
+    },
+    {
+        "question": "Sarabjot Singh won gold in Junior world cuo, is associated with________.",
+        "option": {
+            "a": "Wrestling",
+            "b": "Boxing",
+            "c": "Shooting",
+            "d": "None of these"
+        },
+        "answer": "Shooting",
+        "description": "Extending India's domination at the ISSF Junior World Cup, Sarabjot Singh shot a 239.6 to bag the men's 10m air pistol gold, country's ninth yellow metal at the event in Suhl, Germany."
+    },
+    {
+        "question": "Jan Jagrukta Abhiyaan campaign is related to____________.",
+        "option": {
+            "a": "Disease",
+            "b": "College",
+            "c": "School",
+            "d": "Food"
+        },
+        "answer": "Disease",
+        "description": "It is a campaign aimed towards sensitizing and mobilising community for prevention and control of vector borne diseases (VBDs) such as Dengue, Chikungunya and Malaria."
+    },
+    {
+        "question": "According to report, Asia has ______of hungry people in the world.",
+        "option": {
+            "a": "30%",
+            "b": "50%",
+            "c": "60%",
+            "d": "80%"
+        },
+        "answer": "60% ",
+        "description": "Asia they are 820 million people enough to eat in 2018, up from 811 million in the previous year. It is the third year of increase in a row."
+    },
+    {
+        "question": "The annual Joint Military Exercise 'Hand-in-Hand' between India and ___________.",
+        "option": {
+            "a": "Japan",
+            "b": "Russia",
+            "c": "USA",
+            "d": "China"
+        },
+        "answer": "China",
+        "description": "The annual Joint Military Exercise 'Hand-in-Hand' between India and China will be held at Umroi, near Shillong, Meghalaya in December 2019."
+    },
+    {
+        "question": "Who is the Prime Minister of Israel?",
+        "option": {
+            "a": "Ramin Ifreal",
+            "b": "Benjamin Netanyahu",
+            "c": "Purana Hirayahu",
+            "d": "None of these"
+        },
+        "answer": "Benjamin Netanyahu",
+        "description": "Benjamin Netanyahu became the longest serving Prime Minister of Israel. He overthrew the record set by David Ben-Gurion."
+    },
+    {
+        "question": "Which state government will set up the country's first space tech park ?",
+        "option": {
+            "a": "Tamil Nadu",
+            "b": "Karnataka",
+            "c": "Kerala",
+            "d": "Andhra Pradesh"
+        },
+        "answer": "Kerala",
+        "description": "The Kerala government will set up the country's first space tech park at Thiruvananthapuram's Knowledge City. The move is aimed at making the city a manufacturing hub for space-related technology."
+    },
+    {
+        "question": "Mindtree Ltd., is acquired by__________.",
+        "option": {
+            "a": "Tata",
+            "b": "L&T",
+            "c": "Wipro",
+            "d": "CTS"
+        },
+        "answer": "L&T",
+        "description": "Bengaluru-based IT services firm Mindtree Ltd., which has recently been acquired by engineering giant Larsen and Toubro Ltd. has appointed A M Naik (the current chairman of L&T) as the company's new non-executive chairman."
+    },
+    {
+        "question": "Who is the Minister of Commerce and Industry ?",
+        "option": {
+            "a": "P Jai Shankar",
+            "b": "Nirmala Sitharaman",
+            "c": "Piyush Goyal",
+            "d": "Amit Shah"
+        },
+        "answer": "Piyush Goyal",
+        "description": "Commerce and Industry Minister Piyush Goyal will launch the Global Innovation Index, GII on 24th of this month in New Delhi. The GII has been a charter for assessing the innovation capabilities of national economies worldwide."
+    },
+    {
+        "question": "Aishwarya Pratap Singh Tomar won gold at junior world cup, is associated with____________.",
+        "option": {
+            "a": "Swimming",
+            "b": "High Jump",
+            "c": "Long Jump",
+            "d": "Shooting"
+        },
+        "answer": "Shooting",
+        "description": "Last year in July, Aishwarya Pratap Singh Tomar stormed into record books by setting a new junior national record."
+    },
+    {
+        "question": "Who is the Minister of Human Resource Development?",
+        "option": {
+            "a": "Ramesh Pokhriyal Nishank",
+            "b": "Ravi SHankar Prasad",
+            "c": "Nithin Gadkari",
+            "d": "Arjun Munda"
+        },
+        "answer": "Ramesh Pokhriyal Nishank",
+        "description": "Minister of Human Resource Development Ramesh Pokhriyal Nishank released Deeksharambh, an UGC Guide to Student Induction Programme."
+    },
+    {
+        "question": "International Chess Day is observed on ____________.",
+        "option": {
+            "a": "July 12",
+            "b": "July 18",
+            "c": "July 20",
+            "d": "July 23"
+        },
+        "answer": "July 20",
+        "description": "The International Chess Day is celebrated annually on July 20, the day the International Chess Federation (FIDE) was founded, in 1924."
+    },
+    {
+        "question": "\"Kargil: Untold stories from the War\" book is written by_____________.",
+        "option": {
+            "a": "Rachna Bisht Rawat",
+            "b": "Racheal Swadh",
+            "c": "Ram Jyothi Shankar",
+            "d": "Latha Mangeshwari"
+        },
+        "answer": "Rachna Bisht Rawat",
+        "description": "Titled, \"Kargil: Untold stories from the War\", the book published by Penguin Random House, is authored by Rachna Bisht Rawat."
+    },
+    {
+        "question": "Jagdeep Dhankhar has been appointed as the new Governor of ______________.",
+        "option": {
+            "a": "Gujarat",
+            "b": "West Bengal",
+            "c": "Uttar Pradesh",
+            "d": "Tamil Nadu"
+        },
+        "answer": "West Bengal ",
+        "description": "Jagdeep Dhankhar has been appointed as the new Governor of West Bengal"
+    },
+    {
+        "question": "R.N.Ravi will be the new Governor of ____________.",
+        "option": {
+            "a": "Tripura",
+            "b": "Bihar",
+            "c": "Madhya Pradesh",
+            "d": "Nagaland"
+        },
+        "answer": "Nagaland",
+        "description": "R.N.Ravi will be the new Governor of Nagaland"
+    },
+    {
+        "question": "Bernar became the second wealthiest person in the world, is belongs to____________.",
+        "option": {
+            "a": "Canada",
+            "b": "Australia",
+            "c": "USA",
+            "d": "France"
+        },
+        "answer": "France",
+        "description": "French billionaire Bernar became the second wealthiest person in the world this week, according to Bloomberg. Arnault, the chairman and chief executive of the luxury goods conglomerate LVMH, saw his net worth jump to $108 billion."
+    },
+    {
+        "question": "ZTE telecom gear maker is associated with__________.",
+        "option": {
+            "a": "Russia",
+            "b": "Japan",
+            "c": "China",
+            "d": "India"
+        },
+        "answer": "China",
+        "description": "Chinese telecom gear maker ZTE has appointed Yan Xiao as the new deputy chief executive officer of the Indian operations."
+    },
+    {
+        "question": "Sheila Dixit is passed away at the age of 81, is associated with___________.",
+        "option": {
+            "a": "Politics",
+            "b": "Cinema",
+            "c": "Science",
+            "d": "Both a & b"
+        },
+        "answer": "Politics",
+        "description": "According to reports, Dixit underwent breathlessness and pain in the morning. She was immediately taken to a nearby hospital where she has been undergoing treatment for heart ailments since the past two decades."
+    },
+    {
+        "question": "Who won gold medal of the year at Indonesia Open in badminton?",
+        "option": {
+            "a": "PV Sindhu",
+            "b": "Saina Nehwal",
+            "c": "Akane Yamaguchi",
+            "d": "Koine Lamorghini"
+        },
+        "answer": "Akane Yamaguchi",
+        "description": "World number five PV Sindhu won her first silver medal of the year after finishing second at the Indonesia Open. The 24-year-old lost her first final of the year to world number four Akane Yamaguchi 15-21, 16-21 in 51 minutes."
+    },
+    {
+        "question": "According to the data released by NASA, which month has been declared as Hottest month ever?",
+        "option": {
+            "a": "April",
+            "b": "May",
+            "c": "June",
+            "d": "July"
+        },
+        "answer": "June",
+        "description": "According to the data released by NASA, the global average land-ocean temperature was 0.93 degree Celsius above the normal temperature while taking 1951 to 1980 as base years."
+    },
+    {
+        "question": "India won ___________ medal in the mixed relay event at the Asian Games 2018 .",
+        "option": {
+            "a": "Gold",
+            "b": "Silver",
+            "c": "Bronze",
+            "d": "None of these"
+        },
+        "answer": "Silver",
+        "description": "India's silver medal in the mixed relay event at the Asian Games 2018 is expected to be upgraded to gold after Bahrain's Kemi Adekoya was given a 4-year ban for failing a dope test by Athletics Integrity Unit (AIU)."
+    },
+    {
+        "question": "Shiva Thapa won India's first gold at 2019 President's Cup, is associated with_________.",
+        "option": {
+            "a": "Swimming",
+            "b": "Boxing",
+            "c": "Wrestling",
+            "d": "Shooting"
+        },
+        "answer": "Boxing",
+        "description": "Four-time Asian Championships medallist Shiva Thapa won India's first gold at 2019 President's Cup boxing tournament after getting a walkover in the final in Kazakhstan."
+    },
+    {
+        "question": "Who has been appointed as Joint Secretary to President ?",
+        "option": {
+            "a": "Ajay Bhadoo",
+            "b": "Ram Nayak",
+            "c": "Vajra Vedanth",
+            "d": "Sam Joseph"
+        },
+        "answer": "Ajay Bhadoo",
+        "description": "The Appointments Committee of the Cabinet on Saturday approved the appointment of Ajay Bhadoo as Joint Secretary to President Ram Nath Kovind. Bhadoo, a 1999 Gujarat batch IAS officer, is currently serving as the Vadodara Municipal Commissioner."
+    },
+    {
+        "question": "Which team has won Africa Cup of Nations?",
+        "option": {
+            "a": "Senegal",
+            "b": "Portugal",
+            "c": "Mexico",
+            "d": "Algeria"
+        },
+        "answer": "Algeria",
+        "description": "Algeria won the Africa Cup of Nations for the second time after beating Senegal 1-0 in the final. The match's solitary goal came when Baghdad Bounedjah's shot took a deflection off Salif Sane and looped over the Senegalese goalkeeper Alfred Gomis and into the net."
+    },
+    {
+        "question": "Wolverhampton is located at__________.",
+        "option": {
+            "a": "UK",
+            "b": "USA",
+            "c": "Australia",
+            "d": "Africa"
+        },
+        "answer": "UK",
+        "description": "Wolverhampton Wanderers defeated Premier League champions Manchester City to claim the Premier League Asia Trophy 3-2 in a penalty shootout in Shanghai."
+    },
+    {
+        "question": "Eleventh DefExpo India- 2020 to be held in ____________.",
+        "option": {
+            "a": "Pune",
+            "b": "New Delhi",
+            "c": "Mumbai",
+            "d": "Lucknow"
+        },
+        "answer": "Lucknow",
+        "description": "The 11th DefExpo India-2020 is scheduled to be held for the first time in Uttar Pradesh's capital Lucknow."
+    },
+    {
+        "question": "G Sathiyan-Archana Kamath win mixed doubles gold, is associated with_________.",
+        "option": {
+            "a": "Badminton",
+            "b": "Swimming",
+            "c": "Tennis",
+            "d": "Table Tennis"
+        },
+        "answer": "Table Tennis",
+        "description": "India's G Sathiyan and Archana Kamath won the mixed doubles . Sathiyan and Archana Kamath won 21st Commonwealth Table Tennis Championship ."
+    },
+    {
+        "question": "Who has been appointed as India's Ambassador to Israel?",
+        "option": {
+            "a": "Sanjeev Kumar Singla",
+            "b": "Manas Vikram",
+            "c": "Reshma Pasapuleti",
+            "d": "Vedha Krishnamurthy"
+        },
+        "answer": "Sanjeev Kumar Singla",
+        "description": "Senior diplomat Sanjeev Kumar Singla is appointed as the next Indian Ambassador to Israel. He is a 1997-batch Indian Foreign Service officer."
+    },
+    {
+        "question": "Nishagandhi Monsoon Ragas Music Fest organized by ___________.",
+        "option": {
+            "a": "Tamil Nadu",
+            "b": "Karanatka",
+            "c": "Kerala",
+            "d": "Andhra Pradesh"
+        },
+        "answer": "Kerala",
+        "description": "Nishagandhi Monsoon Ragas Music Festival is being organised by Kerala Tourism in Thiruvananthapuram."
+    },
+    {
+        "question": "Who has become India's first gold-medallist in Kazakhstan President's Cup 2019?",
+        "option": {
+            "a": "Archana Murthy",
+            "b": "Shiva Thapa",
+            "c": "Malvendra Kumar",
+            "d": "Duryodhan Singh"
+        },
+        "answer": "Shiva Thapa",
+        "description": "The new weight category has been easy to adapt: Shiva Thapa. Sweety Boora (81kg) and Duryodhan Singh Negi (69kg) ended the tournament with a bronze."
+    },
+    {
+        "question": "Which city has has topped the list of \"most digitised cities\"?",
+        "option": {
+            "a": "Chennai",
+            "b": "Bangalore",
+            "c": "Hyderabad",
+            "d": "Kolkata"
+        },
+        "answer": "Bangalore",
+        "description": "Bengaluru has topped the list of \"most digitised cities\" accounting for highest card payments in a study conducted by payments solution company Razorpay."
+    },
+    {
+        "question": "Which country will host U20 Women's World Cup 2020?",
+        "option": {
+            "a": "Brazil",
+            "b": "Uruguay",
+            "c": "Nigeria",
+            "d": "Palastine"
+        },
+        "answer": "Nigeria",
+        "description": "10 years after staging the U17 World Cup, the West Africans are looking to host the 2020 edition of the U20 women's tournament."
+    },
+    {
+        "question": "Carnatic vocalist Sowmya to be honoured with __________________.",
+        "option": {
+            "a": "Sangita Kalanidhi award",
+            "b": "Sangita Kalaimamani Award",
+            "c": "Padmabhushan",
+            "d": "Padma Vibhusan"
+        },
+        "answer": "Sangita Kalanidhi award",
+        "description": "Popular Carnatic vocalist S Sowmya will be honoured with the prestigious 'Sangita Kalanidhi' award by The Music Academy this year. She would preside over the 93rd annual conference of the academy that will be held from 15 December 2019 to 1 January 2020."
+    },
+    {
+        "question": "Ram Chandra Paswan is died at 56, is associated with____________.",
+        "option": {
+            "a": "Politics",
+            "b": "Science",
+            "c": "Cinema",
+            "d": "Both a & b"
+        },
+        "answer": "Politics",
+        "description": "Lok Sabha member Ram Chandra Paswan, younger brother of Union minister Ram Vilas Paswan, died at the Ram Manohar Lohia Hospital in New Delhi due to cardiac arrest, the family said. He was 56."
+    },
+    {
+        "question": "12th South Asian Bodybuilding and Physique Sports Championship was held at___________.",
+        "option": {
+            "a": "Nagpur",
+            "b": "Tokyo",
+            "c": "Kathmandu",
+            "d": "Afghansitan"
+        },
+        "answer": "Kathmandu",
+        "description": "Indian bodybuilder Ravinder Kumar Malik has clinched Mr. South Asia title. He has crowned the overall champion at 12th South Asian Bodybuilding and Physique Sports Championship in Kathmandu."
+    },
+    {
+        "question": "Who has been appointed as next Vice Chief of Indian Army?",
+        "option": {
+            "a": "Manoj Mukund Naravane",
+            "b": "Pankaj Adwani",
+            "c": "Nawab Siddique",
+            "d": "Vijender Singh Malhotra"
+        },
+        "answer": "Manoj Mukund Naravane ",
+        "description": "In a major rejig in Indian Army, Eastern Army Commander Lt Gen Manoj Mukund Naravane has been appointed as next vice-chief of armed force. He will succeed Lt Gen D Anbu who is set to retire on 31 August 2019."
+    },
+    {
+        "question": "Who has been appointed as the new governor of Gujarat?",
+        "option": {
+            "a": "Ram Gopal",
+            "b": "Karambir Singh",
+            "c": "KJ Kumar",
+            "d": "Acharya Devvrat"
+        },
+        "answer": "Acharya Devvrat",
+        "description": "Acharya Devvrat, 60, sworn in as the new governor of Gujarat on July 22. Gujarat high court's acting chief justice Anant S Dave administered the oath of office at the Raj Bhavan on 22 July."
+    },
+    {
+        "question": "Indian Navy commissions fifth Dornier Aircraft Squadron in ____________.",
+        "option": {
+            "a": "Mumbai",
+            "b": "New Delhi",
+            "c": "Coimbatore",
+            "d": "Chennai"
+        },
+        "answer": "Chennai",
+        "description": "Indian Naval Air Squadron (INAS) 313 It is the fifth Dornier aircraft squadron commissioned into the Indian Navy by Admiral Karambir Singh, PVSM AVSM ADC Chief of the Naval Staff. The ceremony held at Naval Air Enclave, Meenambakkam."
+    },
+    {
+        "question": "According to TOI, Which state has topped in ATM frauds?",
+        "option": {
+            "a": "Maharastra",
+            "b": "Delhi",
+            "c": "Tamil Nadu",
+            "d": "Karnataka"
+        },
+        "answer": "Maharastra",
+        "description": "Maharashtra reported 233 cases of ATM fraud in 2018-19, the highest in the entire country, Reserve Bank Of India (RBI) data, accessed by TOI, revealed. The data showed that Delhi grabbed the second spot with 179 cases, followed by Tamil Nadu with 147 cases of ATM fraud."
+    },
+    {
+        "question": "Governor of Himachal Pradesh is ____________.",
+        "option": {
+            "a": "Punagh Seiyand",
+            "b": "Kalraj Mishra",
+            "c": "Raj Kapoor",
+            "d": "Latha Mukherjee"
+        },
+        "answer": "Kalraj Mishra",
+        "description": "Former Union Minister Kalraj Mishra on Monday took oath as the new Governor of Himachal Pradesh in Shimla. The 78-year-old succeeded Acharya Devvrat after Devvrat was appointed as the new Governor of Gujarat."
+    },
+    {
+        "question": "International Atomic Energy Agency headquarter is situated at__________.",
+        "option": {
+            "a": "Australia",
+            "b": "Vietnam",
+            "c": "Austria",
+            "d": "Sweden"
+        },
+        "answer": "Austria",
+        "description": "He has led the International Atomic Energy Agency (IAEA) since 2009, and was due to step down in March because of an unspecified illness."
+    },
+    {
+        "question": "Adam Peaty wins 100m breaststroke world title for 3rd time, is associated with_________.",
+        "option": {
+            "a": "Shooting",
+            "b": "Wrestling",
+            "c": "Swimming",
+            "d": "Boxing"
+        },
+        "answer": "Swimming",
+        "description": "British swimmer Adam Peaty has won the 100m breaststroke world title for the third time with his victory at the World Aquatics Championships in Gwangju, South Korea."
+    },
+    {
+        "question": "21st Commonwealth Championships is held at____________.",
+        "option": {
+            "a": "Sambalpur",
+            "b": "Puri",
+            "c": "Cuttack",
+            "d": "Bhubaneshwar"
+        },
+        "answer": "Cuttack",
+        "description": "In Table Tennis, hosts India completed a clean sweep, claiming all the seven gold medals at the 21st Commonwealth Championships, in Cuttack."
+    },
+    {
+        "question": "Newport Title is related to ____________.",
+        "option": {
+            "a": "Tennis",
+            "b": "Cricket",
+            "c": "Table Tennis",
+            "d": "Basketball"
+        },
+        "answer": "Tennis",
+        "description": "John Isner lived up to his top seed status at the Hall of Fame Open, becoming the first player to win four titles in Newport with a 7-6(2), 6-3 win over seventhseeded Kazakh Alexander Bublik."
+    },
+    {
+        "question": "Who has been appointed as India's table tennis coach will join in August?",
+        "option": {
+            "a": "Novak Jivan",
+            "b": "Dejan Papic",
+            "c": "Alapan Nath",
+            "d": "Ragu Vilas"
+        },
+        "answer": "Dejan Papic",
+        "description": "Table Tennis Federation of India (TTFI) appointed the Canadian Dejan Papic as the head coach of the Indian table tennis team. He signed a one-year contract. He will be the in-charge through the 2020 Tokyo Olympics."
+    },
+    {
+        "question": "National broadcasting day observed on ____________.",
+        "option": {
+            "a": "23rd July",
+            "b": "24th July",
+            "c": "25th July",
+            "d": "26th July"
+        },
+        "answer": "23rd July",
+        "description": "The first-ever radio broadcast in the country went on air from the Bombay Station. It is under the then private company, the Indian Broadcasting Company (IBC) . This event happened on 23rd July 1927."
+    },
+    {
+        "question": "Keshav Dutt has Mohun Bagan Ratna Award 2019, is associated with___________.",
+        "option": {
+            "a": "Football",
+            "b": "Cricket",
+            "c": "Hockey",
+            "d": "Kabaddi"
+        },
+        "answer": "Hockey",
+        "description": "Two-time Olympic gold medal winning Hockey Player Keshav Dutt and former India Football Captain Prasun Banerjee are selected for Mohun Bagan Ratna Award"
+    },
+    {
+        "question": "JATAN is a_________.",
+        "option": {
+            "a": "Vehicles",
+            "b": "Gun",
+            "c": "App",
+            "d": "Virus"
+        },
+        "answer": "App",
+        "description": "The Minister of State (I/c) of Culture and Tourism, Shri Prahlad Singh Patel informed Lok Sabha about JATAN: Virtual Museum software. JATAN has been developed by Human Centres Design and Computing Group, C-DAC, Pune, Maharashtra."
+    },
+    {
+        "question": "NAM Ministerial Meeting held in____________.",
+        "option": {
+            "a": "Marasmus",
+            "b": "Mexico",
+            "c": "Paraguay",
+            "d": "Caracas"
+        },
+        "answer": "Caracas",
+        "description": "Ministerial meeting of Coordinating Bureau of Non-Aligned Movement (NAM) was held in Caracas, capital of Venezuela."
+    },
+    {
+        "question": "Which state has become First State to Reserve 75% Private Jobs for Local Youths?",
+        "option": {
+            "a": "Tamil Nadu",
+            "b": "Andhra Pradesh",
+            "c": "Madhya Pradesh",
+            "d": "Chattisgarh"
+        },
+        "answer": "Andhra Pradesh",
+        "description": "Andhra Pradesh on Monday became the first state to reserve jobs for local youth after the assembly passed the Andhra Pradesh Employment of Local Candidates in Industries/Factories Act, 2019."
+    },
+    {
+        "question": "Star Peter McNamara is passed away at 68, is associated with________.",
+        "option": {
+            "a": "Cricket",
+            "b": "Tennis",
+            "c": "Pop Singer",
+            "d": "Guitarist"
+        },
+        "answer": "Tennis",
+        "description": "Former Australian Davis Cup tennis star and Wimbledon doubles champion Peter McNamara has died aged 64, officials said, prompting a flood of tributes."
+    },
+    {
+        "question": "Aaykar Diwas 2019 was celebrated by_______________.",
+        "option": {
+            "a": "Income Tax Department",
+            "b": "Meterology Department",
+            "c": "Railways",
+            "d": "Indian Defence Force"
+        },
+        "answer": "Income Tax Department",
+        "description": "The Central Board of Direct Taxes (CBDT) and all field offices will be observing and celebrating the 159th Income Tax Day i.e. AaykarDiwas on 24th July, 2019."
+    },
+    {
+        "question": "Who has been appointed as the head of the ICC's influential Finance & Commercial Affairs committee?",
+        "option": {
+            "a": "Ehsan Mani",
+            "b": "Sekar M",
+            "c": "Ajay Kumar",
+            "d": "Vishnu Mani"
+        },
+        "answer": "Ehsan Mani",
+        "description": "Pakistan Cricket Board's chairman Ehsan Mani has been appointed as the head of the ICC's influential Finance & Commercial Affairs committee."
+    },
+    {
+        "question": "Which cricketer has maintained number one spot in ICC Test Rankings?",
+        "option": {
+            "a": "Babar Azam",
+            "b": "Mohammed Amla",
+            "c": "Virat Kholi",
+            "d": "Ben Stokes"
+        },
+        "answer": "Virat Kholi",
+        "description": "International Cricket Council released the latest rankings of teams and players in the different categories."
+    },
+    {
+        "question": "PayPal is an ____________-based company.",
+        "option": {
+            "a": "African",
+            "b": "American",
+            "c": "Australian",
+            "d": "Indian"
+        },
+        "answer": "American",
+        "description": "American digital payments firm PayPal announced expansion of its India footprint with the launch of third global technology centre."
+    },
+    {
+        "question": "Which company has become highest-ranked Indian company on Fortune Global 500 list?",
+        "option": {
+            "a": "Reliance Industries",
+            "b": "Tata",
+            "c": "Accenyure",
+            "d": "Adaani"
+        },
+        "answer": "Reliance Industries",
+        "description": "Mukesh Ambani-led Reliance Industries Ltd. (RIL) becomes highest-ranked Indian company on Fortune Global 500 list. It has jumped 42 places and was ranked 106 this year."
+    },
+    {
+        "question": "India has secured _____ rank in global innovation index 2019.",
+        "option": {
+            "a": "48",
+            "b": "52",
+            "c": "69",
+            "d": "74"
+        },
+        "answer": "52",
+        "description": "India improved its ranking in the global innovation index by five places to 52nd in 2019 from 57th position last year, according to a report released."
+    },
+    {
+        "question": "Kargil Vijay Diwas, is celebrated in India on ____________.",
+        "option": {
+            "a": "June 22",
+            "b": "June 29",
+            "c": "July 15",
+            "d": "July 26"
+        },
+        "answer": "July 26",
+        "description": "On this date in 1999, India successfully took command of the high outposts which had been lost to Pakistan. The Kargil war was fought for more than 60 days, ended on 26 July and resulted in loss of life on both the sides."
+    },
+    {
+        "question": "Who has been Appointed as UK's First Indian-Origin Home Secretary?",
+        "option": {
+            "a": "Sonali Jain",
+            "b": "Pooja Patia",
+            "c": "Priti Patel",
+            "d": "Fathima Babu"
+        },
+        "answer": "Priti Patel",
+        "description": "Priti Patel, an ardent Brexiteer who was among the most vocal critics of Theresa May's Brexit strategy, took charge as Britain's first Indian-origin Home Secretary in the newly-unveiled Boris Johnson Cabinet."
+    },
+    {
+        "question": "Which state has topped in solar rooftop installations?",
+        "option": {
+            "a": "Tamil Nadu",
+            "b": "Kerala",
+            "c": "Gujarat",
+            "d": "Odisha"
+        },
+        "answer": "Gujarat",
+        "description": "In the area of solar rooftop installations, Gujarat has stood first in the country with total 261.97 megawatts (MW) of installed rooftop solar capacity as on July 23,"
+    },
+    {
+        "question": "Who has been appointed as Head Of Business of Bandhan Bank?",
+        "option": {
+            "a": "Kriti Pandian",
+            "b": "Deepak Chandok",
+            "c": "Archana Yadav",
+            "d": "Sanjeev Naryani"
+        },
+        "answer": "Sanjeev Naryani",
+        "description": "Bandhan Bank Ltd., which reported a net profit of Rs 701 crore in the June quarter of 2019-20, has appointed State Bank of India's Sanjeev Naryani as its head of business."
+    },
+    {
+        "question": "Indian Council of Medical Research (ICMR) headquater is situated in_______.",
+        "option": {
+            "a": "Mumbai",
+            "b": "Kolkata",
+            "c": "Pune",
+            "d": "New Delhi"
+        },
+        "answer": "New Delhi",
+        "description": "With an aim to improve quality of health and demographic data in India, the Indian Council of Medical Research (ICMR) launched an integrated national-level platform that can help close the knowledge gap and boost policy formulations."
+    },
+    {
+        "question": "Indian football team has secured ________ in the FIFA rankings.",
+        "option": {
+            "a": "86th",
+            "b": "92nd",
+            "c": "103rd",
+            "d": "112th"
+        },
+        "answer": "103rd",
+        "description": "The Indian football team slipped two places to 103rd in the FIFA rankings released on Thursday. India lost two matches and drew one in the Intercontinental Cup earlier this month in Ahmedabad."
+    },
+    {
+        "question": "Which company has become highest-ranked Indian company on Fortune Global 500 list?",
+        "option": {
+            "a": "Reliance Industries",
+            "b": "Tata",
+            "c": "Accenture",
+            "d": "Cavinkare"
+        },
+        "answer": "Reliance Industries ",
+        "description": "Diversified conglomerate Reliance Industries (RIL) has become the top-ranked Indian company to feature in the latest Fortune Global 500 list."
+    },
+    {
+        "question": "Rutger Hauer is passed away at 75, is associated with____________.",
+        "option": {
+            "a": "Cinema",
+            "b": "Sports",
+            "c": "Politics",
+            "d": "Science"
+        },
+        "answer": "Cinema",
+        "description": "Actor Rutger Hauer, who starred in 1982's Blade Runner, has died at the age of 75. The star died in the Netherlands after a short illness, his agent confirmed."
+    },
+    {
+        "question": "Madhubani village is located in__________.",
+        "option": {
+            "a": "Chattisgarh",
+            "b": "Bihar",
+            "c": "Himachal Pradesh",
+            "d": "Meghalaya"
+        },
+        "answer": "Bihar",
+        "description": "A celestial object has landed in a village of Madhubani, Bihar. The object weighs more than 10 kilograms. It has magnetic properties. The object looks like a piece of rock. It glitters much more than that of an unpolished stone."
+    },
+    {
+        "question": "IndSpaceEx,a space drill by______________.",
+        "option": {
+            "a": "Indonesia",
+            "b": "USA",
+            "c": "Russia",
+            "d": "India"
+        },
+        "answer": "India",
+        "description": "The Indian armed forces plan to conduct the country's first ever stimulated space warfare exercise this week, The Times of India has reported."
+    },
+    {
+        "question": "Which state has become No. 1 in implementation of Pradhanamntri Suraksha Beema Yojna?",
+        "option": {
+            "a": "Madhya Pradesh",
+            "b": "Uttar Pradesh",
+            "c": "Maharastra",
+            "d": "Kerala"
+        },
+        "answer": "Uttar Pradesh",
+        "description": "Uttar Pradesh has become number one in implementation of Pradhanamntri Suraksha Beema Yojna in the country. As per the statement released by state government 1.95 crores people have been given insurance cover under the scheme till 31 march 2019."
+    },
+    {
+        "question": "Dracaena cambodiana is associated with____________.",
+        "option": {
+            "a": "Virus",
+            "b": "Tree",
+            "c": "Bird",
+            "d": "Animal"
+        },
+        "answer": "Tree",
+        "description": "Researchers have discovered Dracaena cambodiana, a dragon tree species in Dongka Sarpo area of West Karbi Anglong District in Assam."
+    },
+    {
+        "question": "Who is the Sports and Youth Affairs Minister?",
+        "option": {
+            "a": "Arjun Munda",
+            "b": "K Jaishankar",
+            "c": "Kiren Rijiju",
+            "d": "Raj Nath Singh"
+        },
+        "answer": "Kiren Rijiju",
+        "description": "High-Level Committee has been constituted under chairmanship Union Minister of Sports Kiren Rijiju to coordinate and strategise preparation for 2020 and 2024 Olympics."
+    },
+    {
+        "question": "Who has been appointed as the head of ICC's influential Finance and Commercial Affairs committee?",
+        "option": {
+            "a": "Ehsan Mani",
+            "b": "Arvind Manimaran",
+            "c": "Ajay Kumar",
+            "d": "Sanjith Kumar"
+        },
+        "answer": "Ehsan Mani",
+        "description": "Pakistan Cricket Board's chairman Ehsan Mani has been appointed as the head of the International Cricket Council's (ICC) influential Finance & Commercial Affairs committee (F&CA)."
+    },
+    {
+        "question": "Which country has been invited to be a Partner Country for International Gita Jayanti Mahotsav?",
+        "option": {
+            "a": "Pakistan",
+            "b": "Sri Lanka",
+            "c": "Nepal",
+            "d": "Bangladesh"
+        },
+        "answer": "Nepal",
+        "description": "Chief Minister of Haryana Manohar Lal Khattar has invited Nepal to be Partner Country for International Gita Jayanti Mahotsav scheduled to be held at Kurukshetra from 3-8 December 2019."
+    },
+    {
+        "question": "Who won the Tribute Actor award at 2019 Toronto International Film Festival (TIFF)?",
+        "option": {
+            "a": "Jackie Chan",
+            "b": "Will Smith",
+            "c": "Leonardo Di Caprio",
+            "d": "Meryl Streep"
+        },
+        "answer": "Meryl Streep",
+        "description": "Often described as the \"best actress of her generation\", Streep is particularly known for her versatility and accents. Nominated for a record 21 Academy Awards, she has won three."
+    },
+    {
+        "question": "B.S. Yediyurappa, the new Chief Minister of Karnataka, is associated with _________.",
+        "option": {
+            "a": "INC",
+            "b": "BJP",
+            "c": "JD(S)",
+            "d": "AIADMK"
+        },
+        "answer": "BJP",
+        "description": "State BJP President B.S. Yediyurappa (76) took oath as 31st Chief Minister of Karnataka by Governor Vajubhai Vala. His appointment comes 3 days after collapse of Congress-JD(S) government."
+    },
+    {
+        "question": "Meg Lanning is associated with _______.",
+        "option": {
+            "a": "Tennis",
+            "b": "Cricket",
+            "c": "Badminton",
+            "d": "Swimming"
+        },
+        "answer": "Cricket",
+        "description": "Australia Women captain Meg Lanning smashed an unbeaten 133 off 63 balls, including seven sixes and 17 fours, against England Women in first T20I, breaking the record for the highest individual score in a women's T20I."
+    },
+    {
+        "question": "Name the first Indian, who has been crowned Miss Deaf World 2019?",
+        "option": {
+            "a": "Parineeti Jain",
+            "b": "Vidisha Baliyan",
+            "c": "Swarna Gupta",
+            "d": "Ranija Mukherjee"
+        },
+        "answer": "Vidisha Baliyan",
+        "description": "Vidisha Baliyan, a 21-year-old girl from Uttar Pradesh, has been crowned Miss Deaf World 2019, the first Indian to bag the title. The international beauty pageant was held in Mbombela, South Africa. She's a former international tennis player who represented India in the Deaflympics."
+    },
+    {
+        "question": "The Confederation of Indian Industry (CII) is organising the third edition of Global Ayurveda Summit 2019 in __________.",
+        "option": {
+            "a": "Chennai",
+            "b": "Thiruvanandhapuram",
+            "c": "Kochi",
+            "d": "Hyderabad"
+        },
+        "answer": "Kochi",
+        "description": "The main theme will be 'Mainstreaming Ayurveda Startups, Innovation and Branding,'."
+    },
+    {
+        "question": "Beji Caid Essebsi was a famous Politician from __________.",
+        "option": {
+            "a": "Russia",
+            "b": "Italy",
+            "c": "Tunisia",
+            "d": "Germany"
+        },
+        "answer": "Tunisia",
+        "description": "Tunisia's first freely elected President, Beji Caid Essebsi, has died aged"
+    },
+    {
+        "question": "Who has topped the Instagram Sports Rich List for 2019?",
+        "option": {
+            "a": "Cristiano Ronaldo",
+            "b": "Lionel Messi",
+            "c": "Virat Kohli",
+            "d": "Rafael Nadal"
+        },
+        "answer": "Cristiano Ronaldo",
+        "description": "He received $975,000 per post to endorse products from companies on the social media platform."
+    },
+    {
+        "question": "Who has been appointed as the next Director General of Military Operations (DGMO) of the Indian Army?",
+        "option": {
+            "a": "Paramjit Singh",
+            "b": "Prajin Yadav",
+            "c": "Veer Gupta",
+            "d": "Amar Nath"
+        },
+        "answer": "Paramjit Singh",
+        "description": "Lt Gen Paramjit Singh is appointed as the next Director General of Military Operations (DGMO) of the Indian Army."
+    },
+    {
+        "question": "5th Dharma-Dhamma conference being held in __________.",
+        "option": {
+            "a": "Pune",
+            "b": "Jaipur",
+            "c": "Rajgir",
+            "d": "Lucjnow"
+        },
+        "answer": "Rajgir",
+        "description": "5th International Dharma-Dhamma conference is being held Rajgir International Convention Centre in Rajgir, Bihar from 27-28 July 2019."
+    },
+    {
+        "question": "Khelo India Youth Games 2020 to be held in _____________.",
+        "option": {
+            "a": "Dispur",
+            "b": "Shillong",
+            "c": "Chennai",
+            "d": "Guwahati"
+        },
+        "answer": "Guwahati",
+        "description": "Union Minister of Sports Kiren Rijiju announced that 3rd edition of Khelo India Youth Games will be held in Guwahati, Assam between 18-30 January 2020."
+    },
+    {
+        "question": "Jaipal Reddy is passed away at 77, is associated with___________.",
+        "option": {
+            "a": "Cinema",
+            "b": "Sports",
+            "c": "Science",
+            "d": "Politics"
+        },
+        "answer": "Politics",
+        "description": "Former Union Minister and senior Congress leader Jaipal Reddy passed away aged 77 at a private hospital in Hyderabad after suffering from pneumonia."
+    },
+    {
+        "question": "Which company has become largest telecom operator in India within 3 years of starting operations?",
+        "option": {
+            "a": "Reliance Jio",
+            "b": "BSNL",
+            "c": "Airtel",
+            "d": "Vodafone"
+        },
+        "answer": "Reliance Jio",
+        "description": "Within three years of starting its commercial operations, Reliance Jio has become the country's largest telecom operator with a subscriber base of 331.3 million."
+    },
+    {
+        "question": "World Hepatitis Day is observed on ___________.",
+        "option": {
+            "a": "July 12",
+            "b": "July 19",
+            "c": "July 25",
+            "d": "July 28"
+        },
+        "answer": "July 28",
+        "description": "World Hepatitis Day, observed on July 28 every year, aims to raise global awareness of hepatitis - a group of infectious diseases known as Hepatitis A, B, C, D, and E - and encourage prevention, diagnosis and treatment."
+    },
+    {
+        "question": "World Hepatitis Day 2019 theme is______________.",
+        "option": {
+            "a": "Find the Missing Millions",
+            "b": "Find the Hepatitis Millions",
+            "c": "Odd the Organ Millions",
+            "d": "Odd the Missing Millions"
+        },
+        "answer": "Find the Missing Millions",
+        "description": "Theme for 2019: Find the Missing Millions."
+    },
+    {
+        "question": "PepsiCo headquarter is situated in_________.",
+        "option": {
+            "a": "Geneva",
+            "b": "Australia",
+            "c": "New York",
+            "d": "Canada"
+        },
+        "answer": "New York",
+        "description": "Food and beverages major PepsiCo India on Sunday said it plans to invest Rs 514 crore over the next three years to set up a greenfield snacks manufacturing plant in Uttar Pradesh."
+    },
+    {
+        "question": "Who has been appointed as New BSF Director General?",
+        "option": {
+            "a": "P K Singh",
+            "b": "V K Jhori",
+            "c": "Kadambari Yadav",
+            "d": "Arvind Ram"
+        },
+        "answer": "V K Jhori",
+        "description": "The Appointments Committee of the Cabinet (ACC) headed by Prime Minister Narendra Modi has appointed IPS officer VK Johri as new Director General (DG) of, Border Security Force (BSF), country's largest border guarding force."
+    },
+    {
+        "question": "World Hindu Economic Forum has launched in ___________.",
+        "option": {
+            "a": "Japan",
+            "b": "Bangladesh",
+            "c": "India",
+            "d": "Nepal"
+        },
+        "answer": "Nepal",
+        "description": "World Hindu Economic Forum (WHEF) has launched its Nepal Chapter which was inaugurated by Nepal's Minister of State for Health and Population Dr. Surendra Kumar Yadav in Nepal's Capital of Kathmandu."
+    },
+    {
+        "question": "Sudarsan Pattnaik wins People's Choice Award in U.S, is associate with____________.",
+        "option": {
+            "a": "Sand Artist",
+            "b": "Jumbling Artist",
+            "c": "Guitarist",
+            "d": "Chef"
+        },
+        "answer": "Sand Artist",
+        "description": "Renowned Indian sand artist and Padma Awardee Sudarsan Pattnaik has won People's Choice Award at a prestigious sand sculpting festival in United States (US)."
+    },
+    {
+        "question": "International Tiger Day observed on ________.",
+        "option": {
+            "a": "June 19",
+            "b": "June 27",
+            "c": "July 29",
+            "d": "July 31"
+        },
+        "answer": "July 29",
+        "description": "Global Tiger Day, often called International Tiger Day, is an annual celebration to raise awareness for tiger conservation, held annually on 29 July."
+    },
+    {
+        "question": "Who won German Grand Prix 2019?",
+        "option": {
+            "a": "Lewis Hamilton",
+            "b": "Max Verstappen",
+            "c": "Sebastian Vettel",
+            "d": "Carlson Loiuis"
+        },
+        "answer": "Max Verstappen",
+        "description": "Red Bull's Max Verstappen took his second win of the year in a chaotic and incident-strewn German Grand Prix held in intermittent rain."
+    },
+    {
+        "question": "Donkupar Roy is Died At 64, is associated with__________.",
+        "option": {
+            "a": "Politician",
+            "b": "Cricketer",
+            "c": "Hockey Player",
+            "d": "Actor"
+        },
+        "answer": "Politician",
+        "description": "Incumbent Speaker of Meghalaya Assembly and former Chief Minister of the state Donkupar Roy died today in Gurgaon. He was 64."
+    },
+    {
+        "question": "Who has crowned Tour de France champion?",
+        "option": {
+            "a": "Egan Bernal",
+            "b": "Morhan Mathew",
+            "c": "Mugen Macheal",
+            "d": "Louis Phaster"
+        },
+        "answer": "Egan Bernal ",
+        "description": "Egan Bernal was crowned as the first Colombian to win the Tour de France and the youngest in more than a century after safely negotiating the 21st and final stage into Paris ."
+    },
+    {
+        "question": "CM Anandiben Patel takes oath as Governor of________________.",
+        "option": {
+            "a": "Gujarat",
+            "b": "Madhya Pradesh",
+            "c": "Uttar Pradesh",
+            "d": "Maharastra"
+        },
+        "answer": "Uttar Pradesh",
+        "description": "Former Gujarat CM Anandiben Patel took oath as Uttar Pradesh Governor on Monday. High Court Chief Justice Govind Mathur administered her the oath at the Raj Bhawan in Lucknow."
+    },
+    {
+        "question": "Which railway zone has introduces new 'pink coaches' for women passengers?",
+        "option": {
+            "a": "Souther Railway",
+            "b": "Southern Eastern Railway",
+            "c": "Northern Eastern Railway",
+            "d": "Northeast Frontier Railway"
+        },
+        "answer": "Northeast Frontier Railway",
+        "description": "Indian Railways'Northeast Frontier Railway zone has started a unique initiative to earmark a special portion of the SLR coach with pink colour. This is done to specially help the women passengers with better safety and security."
+    },
+    {
+        "question": "Apple.Inc headquarter is situated in___________.",
+        "option": {
+            "a": "Canada",
+            "b": "Switzerland",
+            "c": "California",
+            "d": "Brazil"
+        },
+        "answer": "California",
+        "description": "Apple announced the acquisition of chip-maker Intel's smartphone modem business for $1 billion. There are around 2,200 Intel employees will join Apple along with intellectual property."
+    },
+    {
+        "question": "Which among the following states has received a GI tag for its rasagola?",
+        "option": {
+            "a": "Odisha",
+            "b": "Jharkhand",
+            "c": "Bihar",
+            "d": "Chhattisgarh"
+        },
+        "answer": "Odisha",
+        "description": "Odisha has received a GI tag for its version of Rasgulla, a year after west Bengal got the GI tag for its version of Rasagola in November 2017."
+    },
+    {
+        "question": "When will Sawan Shivratri be observed in 2019?",
+        "option": {
+            "a": "August 1st",
+            "b": "July 31st",
+            "c": "July 30th",
+            "d": "August 10th"
+        },
+        "answer": "July 30th",
+        "description": "Sawan Shivratri will be observed on July 30 this year. The auspicious day is also known as Masa Shivaratri."
+    },
+    {
+        "question": "Which among the following leaders will be seen guest starring in a Man vs Wild episode with host Bear Grylls?",
+        "option": {
+            "a": "Donald Trump",
+            "b": "Narendra Modi",
+            "c": "Vladimir Putin",
+            "d": "Justin Trudeau"
+        },
+        "answer": "Narendra Modi",
+        "description": "PM Narendra Modi will be seen in an all-new avatar in the upcoming Man vs Wild episode with adventurer host Bear Grylls."
+    },
+    {
+        "question": "Who among the following said these lines, \"Tinkering with Article 35A will be akin to setting a powder keg on fire\"?",
+        "option": {
+            "a": "Mehbooba Mufti",
+            "b": "Omar Abdullah",
+            "c": "Rahul Gandhi",
+            "d": "Sonia Gandhi"
+        },
+        "answer": "Mehbooba Mufti",
+        "description": "Mehbooba Mufti, former Jammu and Kashmir Chief Minister, warned the ruling government saying that any tinkering with Article 35 A would be akin to setting a powder keg on fire."
+    },
+    {
+        "question": "Former Union Minister Jaipal Reddy passed away on 28th July. How many times was Reddy elected to the Lok Sabha?",
+        "option": {
+            "a": "Four",
+            "b": "Six",
+            "c": "Three",
+            "d": "Five"
+        },
+        "answer": "Five",
+        "description": "S Jaipal Reddy was a five-time Lok Sabha MP, four-time MLA, two-time Rajya Sabha MP and union minister under three governments."
+    },
+    {
+        "question": "India has signed an agreement with which among the following countries to enable visa free travel?",
+        "option": {
+            "a": "Togo",
+            "b": "Benin",
+            "c": "Nigeria",
+            "d": "The Gambia"
+        },
+        "answer": "Benin",
+        "description": "India and Benin have signed an important agreement for the circulation of diplomatic passport holders from both countries, which will enable diplomatic passports from both Benin and India to travel to both countries without visa."
+    },
+    {
+        "question": "When is the International Tiger Day observed globally?",
+        "option": {
+            "a": "28th July",
+            "b": "29th July",
+            "c": "30th July",
+            "d": "31st July"
+        },
+        "answer": "29th July",
+        "description": "The International Tiger Day is observed across the world on 29 July to raise awareness about declining numbers of wild tigers."
+    },
+    {
+        "question": "K R Ramesh Kumar resigned as Speaker of which State Assembly?",
+        "option": {
+            "a": "Madhya Pradesh",
+            "b": "Kerala",
+            "c": "Karnataka",
+            "d": "West Bengal"
+        },
+        "answer": "Karnataka",
+        "description": "K R Ramesh Kumar announced his resignation as the Karnataka Assembly Speaker on July 29, 2019 following the adoption of confidence motion moved by chief minister B S Yediyurappa"
+    },
+    {
+        "question": "Who won the Gold Medal in 51 kg category of 23rd President's Cup Boxing Tournament?",
+        "option": {
+            "a": "Mary Kom",
+            "b": "Simranjit Kaur",
+            "c": "Pinki Rani",
+            "d": "Ankushita Boro"
+        },
+        "answer": "Mary Kom",
+        "description": "Mary Kom and Simranjit Kaur won the gold medal in 51kg category and 60kg category respectively each in the 23rd President's Cup Boxing Tournament held in Labuan Bajo, Indonesia."
+    },
+    {
+        "question": "Which city will host the 2020 Khelo India Youth Games?",
+        "option": {
+            "a": "Guwahati",
+            "b": "Lucknow",
+            "c": "Ranchi",
+            "d": "Varanasi"
+        },
+        "answer": "Guwahati",
+        "description": "The 2020 Khelo India Youth Games will be held in Guwahati, Assam, as announced by Sports Minister Kiren Rijiju. The third edition of games will begin from 18 January 2020."
+    },
+    {
+        "question": "Which state CM has launched 'Didi Ke Bolo' campaign?",
+        "option": {
+            "a": "Punjab",
+            "b": "West Bengal",
+            "c": "Chattisgarh",
+            "d": "Odisha"
+        },
+        "answer": "West Bengal",
+        "description": "Chief Minister of West Bengal Mamata Banerjee launched a unique initiative called 'Didi Ke Bolo' (Tell your sister) campaign to reach out to people of State."
+    },
+    {
+        "question": "Who has been appointed as interim President of Indian Youth Congress?",
+        "option": {
+            "a": "Saravanan M",
+            "b": "Srivatsan",
+            "c": "Srinivas BV",
+            "d": "Rama Moorthy"
+        },
+        "answer": "Srinivas BV ",
+        "description": "Congress leader Srinivas BV was appointed as the interim President of the Indian Youth Congress (IYC) on Monday by the Congress President, said an All India Congress Committee communique signed by party General Secretary KC Venugopal."
+    },
+    {
+        "question": "Bandhan Bank headquarter is situated in_________.",
+        "option": {
+            "a": "New Delhi",
+            "b": "Mumbai",
+            "c": "Thrissur",
+            "d": "Kolkata"
+        },
+        "answer": "Kolkata",
+        "description": "Private lender Bandhan Bank announced the appointment of Siddhartha Sanyal as chief economist and head of research who will spearhead the bank's research and business strategy."
+    },
+    {
+        "question": "World Day Against Trafficking in Persons - Theme for 2019 is_________________.",
+        "option": {
+            "a": "Human Trafficking : Call your government to Action",
+            "b": "Human Trafficking : Call your nation to Action",
+            "c": "Human Trafficking : Call your society to Action",
+            "d": "Human Trafficking : Call your world to Action"
+        },
+        "answer": "Human Trafficking : Call your government to Action",
+        "description": "Theme for 2019 : Human Trafficking : Call your government to Action"
+    },
+    {
+        "question": "India's 7th Economic Census begins from _____________.",
+        "option": {
+            "a": "Nagaland",
+            "b": "Tripura",
+            "c": "Chennai",
+            "d": "Pune"
+        },
+        "answer": "Tripura",
+        "description": "India's seventh Economic Census began from Tripura and a similar task would be launched in other States and Union Territories across the country next month, officials said."
+    },
+    {
+        "question": "Which state secretariat has renamed as Lok Seva Bhavan?",
+        "option": {
+            "a": "Himachal Pradesh",
+            "b": "Odisha",
+            "c": "Gujarat",
+            "d": "uttar Pradesh"
+        },
+        "answer": "Odisha",
+        "description": "Odisha Chief Minister Naveen Patnaik on Monday announced in the State Assembly that the Sachivalaya or Secretariat building in Bhubaneswar will now be called 'Lok Seva Bhavan'."
+    },
+    {
+        "question": "Who has been appointed as ombudsman and ethics officer for Indian Federation of Sports Gaming?",
+        "option": {
+            "a": "Vamsi Krishnan",
+            "b": "Anandh Yadav",
+            "c": "AK Sikri",
+            "d": "Arun Yadav"
+        },
+        "answer": "AK Sikri ",
+        "description": "The Indian Federation of Sports Gaming (IFSG), India's first selfregulatory industry body for the online fantasy sports gaming sector, has appointed justice (retired) A K Sikri as its ombudsman and ethics officer."
+    },
+    {
+        "question": "International Friendship Day is observed on ___________.",
+        "option": {
+            "a": "June 14",
+            "b": "June 30",
+            "c": "July 19",
+            "d": "July 30"
+        },
+        "answer": "July 30",
+        "description": "It was first proposed in 1958 in Paraguay as the 'International Friendship Day'. It was initially promoted by the greeting cards' industry, evidence from social networking sites shows a revival of interest in the holiday that may have grown with the spread of the Internet."
+    },
+    {
+        "question": "Vithalbhai Radadiya is passed away at 61, is associated with___________.",
+        "option": {
+            "a": "Sports",
+            "b": "Cinema",
+            "c": "Politics",
+            "d": "Both a and c"
+        },
+        "answer": "Politics",
+        "description": "In Gujarat, senior BJP leader and former Lok Sabha MP Vithalbhai Radadiya died. He was 61. He was ailing for some time. His son Jayesh Radadiya, who is a Minister in the State government, made the announcement about his death, through a tweet."
+    },
+    {
+        "question": "Centre to conduct the 22nd National Conference on e Governance is held at_________.",
+        "option": {
+            "a": "Meghalaya",
+            "b": "Tamilnadu",
+            "c": "Punjab",
+            "d": "Karanataka"
+        },
+        "answer": "Meghalaya",
+        "description": "The Centre is to organize the 22nd National Conference on e- Governance 2019 on 8-9th August, 2019 at Shillong, Meghalaya. For the first time ever, the event is being organized in North-Eastern region of the country."
+    },
+    {
+        "question": "Who has been elected as Karnataka Assembly Speaker?",
+        "option": {
+            "a": "R Ashoka",
+            "b": "Goving M kajrol",
+            "c": "Vishweshwar Hegde Kageri",
+            "d": "Laxman Savadi"
+        },
+        "answer": "Vishweshwar Hegde Kageri",
+        "description": "BJP MLA Vishweshwar Hegde Kageri has been elected as Karnataka Assembly Speaker. Kageri was the only one to file the nomination papers for the post following Congress MLA KR Ramesh Kumar's resignation as the Speaker after Congress-JD(S) coalition government"
+    },
+    {
+        "question": "Who will be the new Finance Secretary?",
+        "option": {
+            "a": "Ajay Bhora",
+            "b": "Vishnu Raj",
+            "c": "Vijay Shankar Yadav",
+            "d": "Rajiv Kumar"
+        },
+        "answer": "Rajiv Kumar",
+        "description": "The government has designated financial services secretary Rajiv Kumar as finance secretary. The appointments committee of the cabinet (ACC) gave its approval to the designation of the 1984 Jharkhand cadre Indian Administrative Service (IAS) officer as the finance secretary."
+    },
+    {
+        "question": "Who will be the new CEO of Mindtree?",
+        "option": {
+            "a": "Debashis Chatterjee",
+            "b": "Rajiv Mehta",
+            "c": "Arjun Ramasamy",
+            "d": "Pandit Kumar Yadav"
+        },
+        "answer": "Debashis Chatterjee",
+        "description": "Former Cognizant executive Debashis Chatterjee will take over as Mindtree's new Chief Executive Officer on August 1, CNBC-TV18 reported quoting sources. Chatterjee served as the executive vice president and president, global delivery, in Cognizant before he quit in May after serving the company for 23 years."
+    },
+    {
+        "question": "According to QS, Which city has been rated as the best student city in India?",
+        "option": {
+            "a": "Chennai",
+            "b": "Bangalore",
+            "c": "Mumbai",
+            "d": "New Delhi"
+        },
+        "answer": "Bangalore",
+        "description": "Bengaluru has been rated as the best student city in India on a ranking that focuses on the number and performance of universities, employers hiring, the city's affordability, desirability and quality of life, and the diversity of student body."
+    },
+    {
+        "question": "According to QS, which city has been rated as the world's best student city ?",
+        "option": {
+            "a": "Canada",
+            "b": "Australia",
+            "c": "Philipines",
+            "d": "London"
+        },
+        "answer": "London",
+        "description": "London is the world's best student city for the second consecutive year, according to the sixth edition of the QS Best Student Cities Ranking compiled by global consultancy QS Quacquarelli Symonds."
+    },
+    {
+        "question": "B.Sai Praneeth has jumped four places to enter in the top 20 players, is associated with ___________.",
+        "option": {
+            "a": "Tennis",
+            "b": "Boxing",
+            "c": "Badminton",
+            "d": "Cricket"
+        },
+        "answer": "Badminton",
+        "description": "Indian shuttler B.Sai Praneeth has jumped four places to enter in the top 20 players in the latest World Badminton Rankings."
+    },
+    {
+        "question": "Subir Vithal Gokarn is passed away at 60, is associated with_________.",
+        "option": {
+            "a": "Ex-Navy Chief",
+            "b": "Singer",
+            "c": "Ex-RBI Governor",
+            "d": "Ex- Member of Parliament"
+        },
+        "answer": "Ex-RBI Governor",
+        "description": "Former Reserve Bank of India Deputy Governor Dr Subir Vithal Gokarn (60) passed away after a brief illness. He was the RBI Deputy Governor from 2009-12 and oversaw Monetary Policy Research and Financial Markets department."
+    },
+    {
+        "question": "Infosys launches Cyber Defence Center in __________.",
+        "option": {
+            "a": "Sweden",
+            "b": "Romania",
+            "c": "Mexico",
+            "d": "Brazil"
+        },
+        "answer": "Romania",
+        "description": "Infosys announced the launch of its state-of-the-art Cyber Defence Center in Bucharest, Romania.The Defence Center is an expansion of services delivered through Infosys Digital Innovation Center which opened in Bucharest."
+    }
+]

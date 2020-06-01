@@ -1,0 +1,45 @@
+<div *ngIf="questions.length == 0; then thenBlock else elseBlock"></div>
+<ng-template #thenBlock>Content to render when condition is true.</ng-template>
+<ng-template #elseBlock>
+    <h1> Question No. {{qno+1}}: {{questions[qno].question}} </h1>
+    <input type="radio" name="option" value="a" [(ngModel)]="option" [disabled]="hasSubmitted">
+    <label for="a">Option a) {{questions[qno].option.a}} </label><br>
+
+    <input type="radio" name="option" value="b" [(ngModel)]="option" [disabled]="hasSubmitted">
+    <label for="b"> Option b) {{questions[qno].option.b}} </label><br>
+
+    <input type="radio" name="option" value="c" [(ngModel)]="option" [disabled]="hasSubmitted">
+    <label for="c"> Option c) {{questions[qno].option.c}} </label><br>
+
+    <input type="radio" name="option" value="d" [(ngModel)]="option" [disabled]="hasSubmitted">
+    <label for="d"> Option d) {{questions[qno].option.d}} </label><br>
+
+    <ng-container *ngIf="hasSubmitted">
+        <div *ngIf="isCorrect; then correctBlock else wrongBlock"></div>
+        <ng-template #correctBlock>
+            <h3> CORRECT ANSWER !!! </h3>
+        </ng-template>
+        <ng-template #wrongBlock>
+            <h3> WRONG ANSWER !!! </h3>
+        </ng-template>
+        <h3> Answer: {{questions[qno].answer}} </h3>
+        <h3> Your answer: {{questions[qno].option[option]}} </h3>
+        <h3> Description: {{questions[qno].description}} </h3>
+    </ng-container>
+
+    <button (click)="showAnswer()">Show answer</button>
+</ng-template>
+
+<div *ngIf="qno == 4; then resultBlock else nextQuestionBlock"></div>
+<ng-template #nextQuestionBlock>
+    <button (click)="next()">Go to next question</button>
+</ng-template>
+<ng-template #resultBlock>
+    <button (click)="submit()">See Results</button>
+</ng-template>
+
+<ng-container *ngIf="isResultOut">
+    <h3> Current Status: </h3>
+    <h2> Correct answers: {{correctAnswer}}/5 </h2>
+    <h2> Wrong answers: {{5 - correctAnswer}}/5 </h2>
+</ng-container>
