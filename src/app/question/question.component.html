@@ -1,21 +1,21 @@
 <div *ngIf="questions.length == 0; then thenBlock else elseBlock"></div>
 <ng-template #thenBlock>
-    Error 404: Did not fetch the questions
-    <button routerLink="/">Link to main page</button>
+    <h1> Error 404: Did not fetch the questions </h1>
+    <button routerLink="/" class="btn btn-primary btn-lg">Link to main page</button>
 </ng-template>
 <ng-template #elseBlock>
     <h1> Question No. {{qno+1}}: {{questions[qno].question}} </h1>
-    <input type="radio" name="option" value="a" [(ngModel)]="option" [disabled]="hasSubmitted">
-    <label for="a">Option a) {{questions[qno].option.a}} </label><br>
+    <h3><input type="radio" name="option" value="a" [(ngModel)]="option" [disabled]="hasSubmitted">
+    <label for="a"> a) {{questions[qno].option.a}} </label><br></h3>
 
-    <input type="radio" name="option" value="b" [(ngModel)]="option" [disabled]="hasSubmitted">
-    <label for="b"> Option b) {{questions[qno].option.b}} </label><br>
+    <h3><input type="radio" name="option" value="b" [(ngModel)]="option" [disabled]="hasSubmitted">
+    <label for="b"> b) {{questions[qno].option.b}} </label><br></h3>
 
-    <input type="radio" name="option" value="c" [(ngModel)]="option" [disabled]="hasSubmitted">
-    <label for="c"> Option c) {{questions[qno].option.c}} </label><br>
+    <h3><input type="radio" name="option" value="c" [(ngModel)]="option" [disabled]="hasSubmitted">
+    <label for="c"> c) {{questions[qno].option.c}} </label><br></h3>
 
-    <input type="radio" name="option" value="d" [(ngModel)]="option" [disabled]="hasSubmitted">
-    <label for="d"> Option d) {{questions[qno].option.d}} </label><br>
+    <h3><input type="radio" name="option" value="d" [(ngModel)]="option" [disabled]="hasSubmitted">
+    <label for="d"> d) {{questions[qno].option.d}} </label><br></h3>
 
     <ng-container *ngIf="hasSubmitted">
         <div *ngIf="isCorrect; then correctBlock else wrongBlock"></div>
@@ -30,14 +30,14 @@
         <h3> Description: {{questions[qno].description}} </h3>
     </ng-container>
 
-    <button (click)="showAnswer()">Show answer</button>
+    <button class="btn btn-primary" (click)="showAnswer()">Show answer</button>
 
     <div *ngIf="qno == 4; then resultBlock else nextQuestionBlock"></div>
     <ng-template #nextQuestionBlock>
-        <button (click)="next()" [disabled]="!hasSubmitted">Go to next question</button>
+        <button (click)="next()" class="btn btn-primary" [disabled]="!hasSubmitted">Go to next question</button>
     </ng-template>
     <ng-template #resultBlock>
-        <button (click)="submit()" [disabled]="!hasSubmitted">See Results</button>
+        <button (click)="submit()" class="btn btn-primary" [disabled]="!hasSubmitted">See Results</button>
     </ng-template>
 
 </ng-template>
